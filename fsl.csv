@@ -1,362 +1,399 @@
-Reporting Region,City,State,Zip,Country,FSL Provider,FullAddress,lat,lng
-USA,Birmingham,AL,35209,USA,FGL,35209 Birmingham USA,33.4702383,-86.8069698
-USA,Little Rock,AR,72204,USA,FGL,72204 Little Rock USA,34.7179437,-92.3714901
-USA,Tempe,AZ,85282,USA,FGL,85282 Tempe USA,33.3897576,-111.9343636
-USA,Atascadero,CA,93422,USA,FGL,93422 Atascadero USA,35.4894169,-120.6707255
-USA,Bakersfield,CA,93309,USA,FGL,93309 Bakersfield USA,35.3515611,-119.0576298
-USA,San Bernadino,CA,92407,USA,FGL,92407 San Bernadino USA,34.1083449,-117.2897652
-USA,Van Nuys,CA,91411,USA,FGL,91411 Van Nuys USA,34.1799855,-118.4601175
-USA,Eureka,CA,95501,USA,FGL,95501 Eureka USA,40.8134774,-124.1460963
-USA,Oakland,CA,94603,USA,FGL,94603 Oakland USA,37.7355719,-122.1802812
-USA,Redding,CA,96002,USA,FGL,96002 Redding USA,40.5229147,-122.3221947
-USA,Riverside,CA,92507,USA,FGL,92507 Riverside USA,33.9734553,-117.3263893
-USA,Sacramento,CA,95815,USA,FGL,95815 Sacramento USA,38.5963157,-121.4399041
-USA,San Diego,CA,92037,USA,FGL,92037 San Diego USA,32.84722,-117.27333
-USA,Santa Rosa,CA,95401,USA,FGL,95401 Santa Rosa USA,38.4409697,-122.7971649
-USA,Hayward,CA,94545,USA,FGL,94545 Hayward USA,37.6063621,-122.1178261
-USA,Doral,FL,33126,USA,FGL,33126 Doral USA,25.778647,-80.2962385
-USA,Ft. Lauderdale,FL,33309,USA,FGL,33309 Ft. Lauderdale USA,26.1889227,-80.1763467
-USA,Orlando,FL,32809,USA,FGL,32809 Orlando USA,28.4588856,-81.3949264
-USA,Tampa,FL,33634,USA,FGL,33634 Tampa USA,28.01574,-82.5510469
-USA,Savannah,GA,31415,USA,FGL,31415 Savannah USA,32.0730973,-81.1251235
-USA,Harmon,GU,96931,USA,FGL,96931 Harmon USA,34.7603411,-99.6847857
-USA,Honolulu,HI,96817,USA,FGL,96817 Honolulu USA,21.3433967,-157.8390944
-USA,Des Moines,IA,50313,USA,FGL,50313 Des Moines USA,41.6542926,-93.6116494
-USA,Pocatello,ID,83201,USA,FGL,83201 Pocatello USA,42.8945981,-112.3540741
-USA,Elk Grove Villa,IL,60007,USA,FGL,60007 Elk Grove Villa USA,42.0113617,-88.0020589
-USA,Peoria,IL,61610,USA,FGL,61610 Peoria USA,40.644137,-89.596906
-USA,Lenexa,KS,66215,USA,FGL,66215 Lenexa USA,38.9647235,-94.7381013
-USA,Lexington,KY,40511,USA,FGL,40511 Lexington USA,38.1248882,-84.5012435
-USA,Louisville,KY,40228,USA,FGL,40228 Louisville USA,38.1352484,-85.6280697
-USA,Ashland,KY,41101,USA,FGL,41101 Ashland USA,38.4784144,-82.6379387
-USA,New Orleans,LA,70123,USA,FGL,70123 New Orleans USA,29.9392154,-90.1963364
-USA,Shreveport,LA,71106,USA,FGL,71106 Shreveport USA,32.3803257,-93.7333537
-USA,Cambridge,MA,2138,USA,FGL,2138 Cambridge USA,42.3789646,-71.1196231
-USA,Baltimore,MD,22309,USA,FGL,22309 Baltimore USA,36.751334,-107.983211
-USA,Portland,ME,4101,USA,FGL,4101 Portland USA,41.565932,-72.641482
-USA,Detroit,MI,48174,USA,FGL,48174 Detroit USA,42.223867,-83.4003037
-USA,Flint,MI,48507,USA,FGL,48507 Flint USA,42.9753551,-83.7517851
-USA,Grand Rapids,MI,49512,USA,FGL,49512 Grand Rapids USA,42.8846539,-85.5509164
-USA,Minneapolis,MN,55408,USA,FGL,55408 Minneapolis USA,44.9479791,-93.2935778
-USA,Saint Louis,MO,63114,USA,FGL,63114 Saint Louis USA,38.7048818,-90.3465971
-USA,Bozeman,MT,59715,USA,FGL,59715 Bozeman USA,45.6834599,-111.050499
-USA,Greenville,NC,27858,USA,FGL,27858 Greenville USA,35.612661,-77.3663538
-USA,Raleigh,NC,27604,USA,FGL,27604 Raleigh USA,35.8150476,-78.5774408
-USA,Winston Salem,NC,27103,USA,FGL,27103 Winston Salem USA,36.0564654,-80.3324514
-USA,Bismark,ND,58501,USA,FGL,58501 Bismark USA,46.8243438,-100.659753
-USA,West Fargo,ND,58078,USA,FGL,58078 West Fargo USA,46.8716667,-96.895
-USA,South Kearny,NJ,7032,USA,FGL,7032 South Kearny USA,40.728397,-74.106216
-USA,Westville,NJ,8093,USA,FGL,8093 Westville USA,39.1120107,-75.6161157
-USA,Roswell,NM,88203,USA,FGL,88203 Roswell USA,33.2662245,-104.0072348
-USA,Albuquerque,NM,87109,USA,FGL,87109 Albuquerque USA,35.1590068,-106.5760857
-USA,Las Vegas,NV,89120,USA,FGL,89120 Las Vegas USA,36.0833352,-115.0999753
-USA,Albany,NY,12205,USA,FGL,12205 Albany USA,42.722661,-73.8301437
-USA,New York,NY,10022,USA,FGL,10022 New York USA,40.7593941,-73.9697795
-USA,Rochester,NY,14606,USA,FGL,14606 Rochester USA,43.168856,-77.6936948
-USA,Columbus,OH,43204,USA,FGL,43204 Columbus USA,39.9647732,-83.0844532
-USA,Oklahoma City,OK,73128,USA,FGL,73128 Oklahoma City USA,35.4485209,-97.6602365
-USA,Portland,OR,97230,USA,FGL,97230 Portland USA,45.5507889,-122.5057403
-USA,Allentown,PA,18109,USA,FGL,18109 Allentown USA,40.6084305,-75.4901833
-USA,Camp Hill,PA,17011,USA,FGL,17011 Camp Hill USA,40.2398118,-76.9199742
-USA,Pittsburgh,PA,15233,USA,FGL,15233 Pittsburgh USA,40.4543466,-80.0283415
-USA,Scranton,PA,18512,USA,FGL,18512 Scranton USA,41.4367622,-75.6091696
-USA,State College,PA,16803,USA,FGL,16803 State College USA,40.7933949,-77.8600012
-USA,San Juan,PR,923,USA,FGL,923 San Juan USA,32.948021,-97.1436127
-USA,Columbia,SC,29212,USA,FGL,29212 Columbia USA,34.0723572,-81.2188355
-USA,Greenville,SC,29607,USA,FGL,29607 Greenville USA,34.8526176,-82.3940104
-USA,Rapid City,SD,57701,USA,FGL,57701 Rapid City USA,44.0805434,-103.2310149
-USA,Sioux Falls,SD,57107,USA,FGL,57107 Sioux Falls USA,43.6071315,-96.8136642
-USA,Nashville,TN,37211,USA,FGL,37211 Nashville USA,36.0775432,-86.7315785
-USA,Chattanooga,TN,37416,USA,FGL,37416 Chattanooga USA,35.0863004,-85.1790404
-USA,Beaumont,TX,77707,USA,FGL,77707 Beaumont USA,30.0580153,-94.1820961
-USA,Coppell,TX,75019,USA,FGL,75019 Coppell USA,32.9618763,-96.9960925
-USA,El Paso,TX,79936,USA,FGL,79936 El Paso USA,31.7599791,-106.287521
-USA,Harlingen,TX,78550,USA,FGL,78550 Harlingen USA,26.1906306,-97.6961026
-USA,San Antonio,TX,78216,USA,FGL,78216 San Antonio USA,29.5516834,-98.4952228
-USA,Salt Lake City,UT,84108,USA,FGL,84108 Salt Lake City USA,40.7834328,-111.7376178
-USA,Norfolk,VA,23502,USA,FGL,23502 Norfolk USA,36.8574869,-76.2073525
-USA,Roanoke,VA,24012,USA,FGL,24012 Roanoke USA,37.3172783,-79.8912813
-USA,Burrlington,VT,5495,USA,FGL,5495 Burrlington USA,40.0178179,-74.9505253
-USA,Auburn,WA,98001,USA,FGL,98001 Auburn USA,47.3394747,-122.2667661
-USA,Pasco,WA,99301,USA,FGL,99301 Pasco USA,46.2395793,-119.1005657
-USA,Green Bay,WI,54313,USA,FGL,54313 Green Bay USA,44.5910639,-88.1096118
-USA,Hunnington,WV,20571,USA,FGL,20571 Hunnington USA,40.89365,-73.375774
-APAC,Hindmarsh,SA,5007,AUSTRALIA,FGL,5007 Hindmarsh AUSTRALIA,-34.9047781,138.5707009
-APAC,Eagle Farm,QLD,4009,AUSTRALIA,FGL,4009 Eagle Farm AUSTRALIA,-27.4326287,153.0881249
-APAC,Queanbeyan,NSW,2620,AUSTRALIA,FGL,2620 Queanbeyan AUSTRALIA,-35.3549182,149.2312511
-APAC,Northern Territory,Darwin,810,AUSTRALIA,FGL,810 Northern Territory AUSTRALIA,-12.3731091,130.8711469
-APAC,Sandy Bay,Tasmania,7005,AUSTRALIA,FGL,7005 Sandy Bay AUSTRALIA,-42.8946543,147.3262306
-APAC,South Melbourne,Victoria,3205,AUSTRALIA,FGL,3205 South Melbourne AUSTRALIA,-37.8323792,144.9604333
-APAC,Welshpool,WA,6103,AUSTRALIA,FGL,6103 Welshpool AUSTRALIA,-31.9608819,115.9201904
-APAC,SYDNEY,NSW,2116,AUSTRALIA,FGL,2116 SYDNEY AUSTRALIA,-33.8124093,151.0384023
-APAC,Homebush West,NSW,2140,AUSTRALIA,FGL,2140 Homebush West AUSTRALIA,-33.8650645,151.0695978
-APAC,Beijing,.,100101,CHINA,FGL,100101 Beijing CHINA,39.9929052,116.39578
-APAC,Beijing,Beijing,101300,CHINA,FGL,101300 Beijing CHINA,40.1248308,116.6833248
-APAC,Beijing,Beijing,100176,CHINA,FGL,100176 Beijing CHINA,39.8022617,116.5034722
-APAC,Shanghai,.,201203,CHINA,FGL,201203 Shanghai CHINA,31.2047272,121.6111913
-APAC,Shanghai,Shanghai,200131,CHINA,FGL,200131 Shanghai CHINA,31.3248194,121.6054869
-APAC,Shanghai,Shanghai,201203,CHINA,FGL,201203 Shanghai CHINA,31.2047272,121.6111913
-APAC,Shenzhen,Guangdong,518000,CHINA,FGL,518000 Shenzhen CHINA,22.5469976,114.09637
-APAC,Tamuning,Guam,96931,GUAM,FGL,96931 Tamuning GUAM,13.483874,144.79717
-APAC,Hong Kong,Hong Kong,100000,HONG KONG,FGL,100000 Hong Kong HONG KONG,22.301892,114.1775823
-APAC,BANGALORE,KARNATAKA,560024,INDIA,FGL,560024 BANGALORE INDIA,13.0493782,77.5991921
-APAC,MUMBAI,MAHARASTRA,400 701,INDIA,FGL,400 701 MUMBAI INDIA,19.1155498,72.8352866
-APAC,MUMBAI,MAHARASTRA,400079,INDIA,FGL,400079 MUMBAI INDIA,19.0852664,72.9401509
-APAC,New Delhi,New Delhi,110020,INDIA,FGL,110020 New Delhi INDIA,28.5433441,77.2807423
-APAC,Chennai,Tamil Nadu,600026,INDIA,FGL,600026 Chennai INDIA,13.0541033,80.2070328
-APAC,Jakarta,Jakarta,11440,INDONESIA,FGL,11440 Jakarta INDONESIA,-6.1694569,106.8030892
-APAC,Asahikawa,Hokkaido,071-1247,JAPAN,FGL,071-1247 Asahikawa JAPAN,43.8404623,142.3824288
-APAC,Takikawa-shi,Hokkaido,073-0004,JAPAN,FGL,073-0004 Takikawa-shi JAPAN,43.5849661,141.9289992
-APAC,Wakkanai,Hokkaido,097-0011,JAPAN,FGL,097-0011 Wakkanai JAPAN,45.3958177,141.7231262
-APAC,Aomori-shi,Aomori,030-0946,Japan,FGL,030-0946 Aomori-shi Japan,40.8026247,140.7824713
-APAC,Hirosaki-shi,Aomori,036-8083,Japan,FGL,036-8083 Hirosaki-shi Japan,40.5941825,140.5185236
-APAC,Kamikita-gun,Aomori,039-2666,JAPAN,FGL,039-2666 Kamikita-gun JAPAN,40.78286,141.197574
-APAC,Goshogawara-shi,Aomori,037-0202,Japan,FGL,037-0202 Goshogawara-shi Japan,40.9061851,140.4617632
-APAC,Mutsu,Aomori,035-0011,Japan,FGL,035-0011 Mutsu Japan,41.2147099,141.2689257
-APAC,Akita-shi,Akita,011-0901,Japan,FGL,011-0901 Akita-shi Japan,39.7343242,140.0840263
-APAC,Senboku-gun,Akita,019-1404,Japan,FGL,019-1404 Senboku-gun Japan,39.4222773,140.5399548
-APAC,Yokote-shi,Akita,013-0063,Japan,FGL,013-0063 Yokote-shi Japan,39.2985079,140.5533569
-APAC,Abuta-gun,Hokkaido,044-0051,Japan,FGL,044-0051 Abuta-gun Japan,42.9019957,140.7493247
-APAC,Muroran,Hokkaido,050-0075,Japan,FGL,050-0075 Muroran Japan,42.3548008,141.009969
-APAC,Tomakomai,Hokkaido,053-0053,Japan,FGL,053-0053 Tomakomai Japan,42.6576119,141.6454592
-APAC,Fukushima-shi,Fukushima,960-8164,Japan,FGL,960-8164 Fukushima-shi Japan,37.7494544,140.4448768
-APAC,Tamura-gun,Fukushima,963-7732,Japan,FGL,963-7732 Tamura-gun Japan,37.4206406,140.4437378
-APAC,Minamiaizu-gun,Fukushima,967-0004,Japan,FGL,967-0004 Minamiaizu-gun Japan,37.2029766,139.7850232
-APAC,Onuma-Gun,Fukushima,969-6207,Japan,FGL,969-6207 Onuma-Gun Japan,37.4729868,139.8633777
-APAC,Sukagawa-shi,Fukushima-ken,962-0403,Japan,FGL,962-0403 Sukagawa-shi Japan,37.3302479,140.3681868
-APAC,Minami Soma,Fukushima,975-0076,Japan,FGL,975-0076 Minami Soma Japan,37.6506012,140.9237176
-APAC,Iwaki,Fukushima,973-8409,Japan,FGL,973-8409 Iwaki Japan,37.0520924,140.8716503
-APAC,Nishi Shirakawa-gun,Fukushima,969-0206,Japan,FGL,969-0206 Nishi Shirakawa-gun Japan,,
-APAC,Yamagata-shi,Yamagata-shi,990-0024,Japan,FGL,990-0024 Yamagata-shi Japan,38.2427398,140.3620486
-APAC,Sakata-shi,Yamagata,998-0851,Japan,FGL,998-0851 Sakata-shi Japan,38.9075504,139.8587454
-APAC,Shinjo-shi,Yamagata,996-0041,Japan,FGL,996-0041 Shinjo-shi Japan,38.7354494,140.3151364
-APAC,Yonezawa-shi,Yamagata,992-0021,Japan,FGL,992-0021 Yonezawa-shi Japan,37.9207358,140.1270004
-APAC,Hachinohe-shi,Aomori,039-1164,Japan,FGL,039-1164 Hachinohe-shi Japan,40.5337808,141.4783018
-APAC,Hokuto,Hokkaido,041-1215,Japan,FGL,041-1215 Hokuto Japan,41.8378277,140.6852896
-APAC,Hanamaki-shi,Iwate,025-0024,Japan,FGL,025-0024 Hanamaki-shi Japan,39.361517,141.1122008
-APAC,Osyu-shi,Iwate,023-0841,Japan,FGL,023-0841 Osyu-shi Japan,39.11669,141.144411
-APAC,Kuji-shi,Iwate,028-0071,Japan,FGL,028-0071 Kuji-shi Japan,40.1649304,141.7446135
-APAC,Miyako-shi,Iwate-ken,027-0021,Japan,FGL,027-0021 Miyako-shi Japan,39.6367836,141.9609147
-APAC,Shiba-gun,Iwate,020-0891,Japan,FGL,020-0891 Shiba-gun Japan,33.766289,135.3231757
-APAC,Tateyama-shi,Chiba,294-0045,Japan,FGL,294-0045 Tateyama-shi Japan,34.9966964,139.867527
-APAC,Yokosuka-shi,Kanagawa,238-0023,Japan,FGL,238-0023 Yokosuka-shi Japan,35.247729,139.675187
-APAC,Odawara-Shi,Kanagawa-Ken,256-0812,Japan,FGL,256-0812 Odawara-Shi Japan,35.2841768,139.2081494
-APAC,Futtsu-shi,Chiba-ken,293-0044,Japan,FGL,293-0044 Futtsu-shi Japan,35.2889308,139.8695785
-APAC,Yokohama,Kanagawa,221-0022,Japan,FGL,221-0022 Yokohama Japan,35.4827021,139.6515863
-APAC,Minato-ku,Tokyo,108-0075,Japan,FGL,108-0075 Minato-ku Japan,35.6293514,139.7479602
-APAC,Isehara-shi,Kanagawa-ken,259-1121,Japan,FGL,259-1121 Isehara-shi Japan,35.4032141,139.3462804
-APAC,Kodaira,Tokyo,187-0013,Japan,FGL,187-0013 Kodaira Japan,35.7173077,139.4936458
-APAC,Hachioji-shi,Tokyo,192-0063,Japan,FGL,192-0063 Hachioji-shi Japan,35.6635522,139.3380338
-APAC,Higashi Matsuyama,Saitama,355-0072,Japan,FGL,355-0072 Higashi Matsuyama Japan,33.796051,132.8490474
-APAC,Tokamachi-shi,Niigata,948-0073,Japan,FGL,948-0073 Tokamachi-shi Japan,37.136266,138.7542656
-APAC,Uonuma-shi,Niigata,949-6608,Japan,FGL,949-6608 Uonuma-shi Japan,,
-APAC,Joyetsu-shi,Niigata,943-0823,Japan,FGL,943-0823 Joyetsu-shi Japan,,
-APAC,Sanjo,Niigata,955-0046,Japan,FGL,955-0046 Sanjo Japan,37.6346157,138.9723488
-APAC,Niigata-shi,Niigata-ken,950-1126,Japan,FGL,950-1126 Niigata-shi Japan,37.8633592,139.0026029
-APAC,Iwafune-gun,Niigata,959-3241,Japan,FGL,959-3241 Iwafune-gun Japan,38.1030259,139.5239156
-APAC,Nagaoka-shi,Niigata,940-2112,Japan,FGL,940-2112 Nagaoka-shi Japan,37.4439489,138.8219023
-APAC,Kushiro-shi,Hokkaido,088-0616,Japan,FGL,088-0616 Kushiro-shi Japan,43.0141144,144.4094645
-APAC,Kitami-shi,Hokkaido,099-0878,Japan,FGL,099-0878 Kitami-shi Japan,43.8057659,143.8104885
-APAC,Nagano-shi,Nagano,381-0025,Japan,FGL,381-0025 Nagano-shi Japan,36.649908,138.2430856
-APAC,Matsumoto-shi,Nagano,399-0033,Japan,FGL,399-0033 Matsumoto-shi Japan,36.1797782,137.9391388
-APAC,Ueda-shi,Nagano,386-0003,Japan,FGL,386-0003 Ueda-shi Japan,36.4127484,138.291005
-APAC,Saku-shi,Nagano,385-0051,Japan,FGL,385-0051 Saku-shi Japan,36.2391287,138.4712311
-APAC,Suwa-shi,Nagano,392-0013,Japan,FGL,392-0013 Suwa-shi Japan,36.0060356,138.1324734
-APAC,Ina-shi,Nagano,396-0021,Japan,FGL,396-0021 Ina-shi Japan,35.8278664,137.9515178
-APAC,Iida-shi,Nagano,395-0013,Japan,FGL,395-0013 Iida-shi Japan,35.5190412,137.8316172
-APAC,Kofu-shi,Yamanashi-ken,400-0054,Japan,FGL,400-0054 Kofu-shi Japan,35.6067172,138.572515
-APAC,Nagoya-shi,Aichi,462-0845,Japan,FGL,462-0845 Nagoya-shi Japan,35.189962,136.9089015
-APAC,Shinagawa-ku,Tokyo,140-0002,Japan,FGL,140-0002 Shinagawa-ku Japan,35.6158956,139.7492374
-APAC,Ome-shi,Tokyo,198-0032,Japan,FGL,198-0032 Ome-shi Japan,38.9013413,141.3981944
-APAC,Chiba-shi,Chiba,260-0808,Japan,FGL,260-0808 Chiba-shi Japan,35.5976788,140.1498047
-APAC,Sanbu-gun Shibayama-machi,Chiba-ken,289-1608,Japan,FGL,289-1608 Sanbu-gun Shibayama-machi Japan,35.726906,140.370123
-APAC,Obihiro-shi,Hokkaido,080-0028,Japan,FGL,080-0028 Obihiro-shi Japan,42.9158729,143.1613604
-APAC,Sapporo-shi,Hokkaido,003-0011,Japan,FGL,003-0011 Sapporo-shi Japan,43.0546113,141.3968474
-APAC,Noshiro-shi,Akita,016-0171,Japan,FGL,016-0171 Noshiro-shi Japan,40.1790634,140.0172875
-APAC,Saitama-shi,Saitama,331-0046,Japan,FGL,331-0046 Saitama-shi Japan,35.9258026,139.5903979
-APAC,Chichibu-shi,Saitama,369-1871,Japan,FGL,369-1871 Chichibu-shi Japan,35.9777101,139.0716108
-APAC,Odate-shi,Akita,017-0854,Japan,FGL,017-0854 Odate-shi Japan,40.2563102,140.49865
-APAC,Osaka-shi,Osaka,538-0037,Japan,FGL,538-0037 Osaka-shi Japan,34.7175652,135.5847724
-APAC,Yamato Koriyama-shi,Nara-ken,639-1124,Japan,FGL,639-1124 Yamato Koriyama-shi Japan,,
-APAC,Funabashi-shi,Chiba,273-0039,Japan,FGL,273-0039 Funabashi-shi Japan,35.7155133,139.9629678
-APAC,Katsuura-shi,Chiba,299-5264,Japan,FGL,299-5264 Katsuura-shi Japan,35.157879,140.2592197
-APAC,Asahi-shi,Chiba,289-2505,Japan,FGL,289-2505 Asahi-shi Japan,35.734165,140.6268702
-APAC,Mobara-shi,Chiba,297-0017,Japan,FGL,297-0017 Mobara-shi Japan,35.4400094,140.3140016
-APAC,Maebashi-shi,Gunma,379-2134,Japan,FGL,379-2134 Maebashi-shi Japan,36.3294812,139.1132958
-APAC,Agatsuma-gun,Gunma,377-0423,Japan,FGL,377-0423 Agatsuma-gun Japan,36.5883476,138.856721
-APAC,Tatebayashi,Gunma,374-0006,Japan,FGL,374-0006 Tatebayashi Japan,36.2513768,139.5585543
-APAC,Tsuchiura-shi,Ibaragi,300-0038,Japan,FGL,300-0038 Tsuchiura-shi Japan,36.0801906,140.1935469
-APAC,Omitama-shi,Ibaraki,319-0101,Japan,FGL,319-0101 Omitama-shi Japan,36.2559622,140.373349
-APAC,Chikusai-shi,Ibaraki,308-0114,Japan,FGL,308-0114 Chikusai-shi Japan,36.2341778,139.9552754
-APAC,Koga-shi,Ibaraki,306-0204,Japan,FGL,306-0204 Koga-shi Japan,36.1775437,139.7620154
-APAC,Naka-shi,Ibaraki,311-0117,Japan,FGL,311-0117 Naka-shi Japan,36.434989,140.459247
-APAC,Kashima,Ibaraki,314-0022,Japan,FGL,314-0022 Kashima Japan,35.9323744,140.6430661
-APAC,Utsunomiya-shi,Tochigi,320-0071,Japan,FGL,320-0071 Utsunomiya-shi Japan,36.6097834,139.8572866
-APAC,Imaichi-shi,Tochigi,321-2332,Japan,FGL,321-2332 Imaichi-shi Japan,33.6111856,131.1233792
-APAC,Nasushiobara-shi,Tochigi,329-2702,Japan,FGL,329-2702 Nasushiobara-shi Japan,36.9071736,140.0052922
-APAC,Sendai-shi,Miyagi,983-0034,Japan,FGL,983-0034 Sendai-shi Japan,38.2656314,140.9497103
-APAC,Osaki-shi,Miyagi,989-6255,Japan,FGL,989-6255 Osaki-shi Japan,38.5960162,140.9773154
-APAC,Ishinomaki-shi,Miyagi,986-0805,Japan,FGL,986-0805 Ishinomaki-shi Japan,38.4425826,141.3124698
-APAC,Kesenuma-shi,Miyagi,988-0053,Japan,FGL,988-0053 Kesenuma-shi Japan,38.8914525,141.5619037
-APAC,Shibata-gun,Miyagi,989-1606,Japan,FGL,989-1606 Shibata-gun Japan,38.0554304,140.766886
-APAC,Sado-shi,Niigata,952-0212,Japan,FGL,952-0212 Sado-shi Japan,37.9811726,138.3867418
-APAC,Gwangju,.,502-152,Korea,FGL,502-152 Gwangju Korea,35.1326279,126.8277189
-APAC,Yongin-si,Gyeonggi-do,446-904,Korea,FGL,446-904 Yongin-si Korea,37.2543732,127.1178175
-APAC,Busan,Busan,617-050,Korea,FGL,617-050 Busan Korea,35.1549213,128.9798496
-APAC,Selangor Darul Ehsan,Kuala Lumpur,64000,MALAYSIA,FGL,64000 Selangor Darul Ehsan MALAYSIA,3.1124019,101.6567218
-APAC,Auckland,.,2022,NEW ZEALAND,FGL,2022 Auckland NEW ZEALAND,-36.9793643,174.7837717
-APAC,Wellington,.,6035,NEW ZEALAND,FGL,6035 Wellington NEW ZEALAND,-41.2484605,174.7889907
-APAC,paranaque,Philippines,1018,PHILIPPINES,FGL,1018 paranaque PHILIPPINES,13.6247794,123.2034194
-APAC,Singapore,Singapore,486127,SINGAPORE,FGL,486127 Singapore SINGAPORE,1.3335367,103.9513808
-APAC,Singapore,Singapore,498827,SINGAPORE,FGL,498827 Singapore SINGAPORE,1.3510112,103.9666115
-APAC,Colombo,Sri Lanka,1300,SRI LANKA,FGL,1300 Colombo SRI LANKA,7.2963889,80.635
-APAC,"Dayuan,Taoyuan",Taiwan,337,Taiwan,FGL,"337 Dayuan,Taoyuan Taiwan",25.0492632,121.193945
-APAC,Bangkok,.,10250,THAILAND,FGL,10250 Bangkok THAILAND,13.6940995,100.6759772
-APAC,Ho Chi Minh,Ho Chi Minh,-,VIET NAM,FGL,#NAME?,10.8230989,106.6296638
-EMEA,Wien,Wien,1210,AUSTRIA,FGL,1210 Wien AUSTRIA,48.2770352,16.404805
-EMEA,Muharraq,Manama,26951,BAHRAIN,FGL,26951 Muharraq BAHRAIN,26.1451133,50.5431054
-EMEA,BRUCARGO,.,1931,BELGIUM,FGL,1931 BRUCARGO BELGIUM,50.903293,4.452214
-EMEA,Rijeka,.,51000,CROATIA,FGL,51000 Rijeka CROATIA,45.3270631,14.442176
-EMEA,Vallensbaek,...,2625,DENMARK,FGL,2625 Vallensbaek DENMARK,55.6362806,12.3677306
-EMEA,Cairo,Down Town,11111,EGYPT,FGL,11111 Cairo EGYPT,30.0444196,31.2357116
-EMEA,Floirac,Floirac,33270,FRANCE,FGL,33270 Floirac FRANCE,44.8305549,-0.527552
-EMEA,Bat 3417 B,Roissy,95702,FRANCE,FGL,95702 Bat 3417 B FRANCE,48.8542189,2.2894405
-EMEA,Villeneuve La Garenne,France,92390,FRANCE,FGL,92390 Villeneuve La Garenne FRANCE,48.936616,2.324789
-EMEA,Lesquin,France,59810,FRANCE,FGL,59810 Lesquin FRANCE,50.590851,3.111239
-EMEA,VILLEURBANNE,France,69100,FRANCE,FGL,69100 VILLEURBANNE FRANCE,45.771944,4.8901709
-EMEA,Aix En Provence,.,13852,FRANCE,FGL,13852 Aix En Provence FRANCE,43.5280904,5.4489798
-EMEA,Mundolsheim,.,67450,FRANCE,FGL,67450 Mundolsheim FRANCE,48.641431,7.715592
-EMEA,Kesselsdorf,Dresden,1723,GERMANY,FGL,1723 Kesselsdorf GERMANY,52.4855703,13.3679227
-EMEA,Dusseldorf,.,40595,GERMANY,FGL,40595 Dusseldorf GERMANY,51.140778,6.9050681
-EMEA,Roedermark,.,63322,GERMANY,FGL,63322 Roedermark GERMANY,49.9729001,8.8301896
-EMEA,Raunheim,.,65479,GERMANY,FGL,65479 Raunheim GERMANY,50.0104109,8.4529177
-EMEA,Hamburg,.,20537,GERMANY,FGL,20537 Hamburg GERMANY,53.550862,10.048934
-EMEA,Unterschleißheim,Munchen,85716,GERMANY,FGL,85716 Unterschleißheim GERMANY,,
-EMEA,Berlin,.,10553,GERMANY,FGL,10553 Berlin GERMANY,52.5282039,13.3213846
-EMEA,"Vari  16672,  Athens",Athens,16672,GREECE,FGL,"16672 Vari  16672,  Athens GREECE",37.9837155,23.7293097
-EMEA,Dublin 9,...,...,IRELAND,FGL,... Dublin 9 IRELAND,53.3494426,-6.2600825
-EMEA,Limerick,.,.,IRELAND,FGL,. Limerick IRELAND,52.6680204,-8.6304975
-EMEA,Kanot,.,70700,ISRAEL,FGL,70700 Kanot ISRAEL,31.802465,34.752809
-EMEA,Tel Aviv,Tel Aviv,67443,ISRAEL,FGL,67443 Tel Aviv ISRAEL,32.066158,34.777819
-EMEA,Tel Aviv,Tel Aviv,70100,ISRAEL,FGL,70100 Tel Aviv ISRAEL,32.066158,34.777819
-EMEA,Peschiera Borromeo,.,20068,ITALY,FGL,20068 Peschiera Borromeo ITALY,45.4363136,9.3311368
-EMEA,Fiano Romano,.,65,ITALY,FGL,65 Fiano Romano ITALY,42.1719655,12.5925004
-EMEA,Amman,.,11181,JORDAN,FGL,11181 Amman JORDAN,32.0089953,35.8746008
-EMEA,Casablanca,.,20100,MOROCCO,FGL,20100 Casablanca MOROCCO,33.5565238,-7.6224518
-EMEA,Oude Meer,....,1438 BB,NETHERLANDS,FGL,1438 BB Oude Meer NETHERLANDS,52.2870429,4.7810014
-EMEA,AMSTERDAM,.,1047 HP,NETHERLANDS,FGL,1047 HP AMSTERDAM NETHERLANDS,52.4029485,4.7581704
-EMEA,Oslo,.,580,NORWAY,FGL,580 Oslo NORWAY,60.8949398,9.460209
-EMEA,Muscat,.,Mutrah 114,OMAN,FGL,Mutrah 114 Muscat OMAN,23.6079401,58.5492332
-EMEA,Warsaw,.,02-386,POLAND,FGL,02-386 Warsaw POLAND,52.2007567,20.962258
-EMEA,Wroclaw,Poland,52-404,POLAND,FGL,52-404 Wroclaw POLAND,51.0820549,16.9631954
-EMEA,1100-287 LISBOA,.,1100-287,Portugal,FGL,1100-287 1100-287 LISBOA Portugal,38.7124302,-9.1262462
-EMEA,Doha,.,.,QATAR,FGL,. Doha QATAR,25.280282,51.522476
-EMEA,Podolsk,Moscow,142101,RUSSIAN FEDERATION,FGL,142101 Podolsk RUSSIAN FEDERATION,55.4313959,37.5448155
-EMEA,Jeddah,.,.,SAUDI ARABIA,FGL,. Jeddah SAUDI ARABIA,21.543489,39.172989
-EMEA,Riyadh,Riyadh,11583,SAUDI ARABIA,FGL,11583 Riyadh SAUDI ARABIA,27.0084278,49.663424
-EMEA,Isando,Gauteng,1620,SOUTH AFRICA,FGL,1620 Isando SOUTH AFRICA,-26.1415082,28.2021017
-EMEA,BARCELONA-HOSPITALET,.,8908,SPAIN,FGL,8908 BARCELONA-HOSPITALET SPAIN,41.3618145,2.0993939
-EMEA,BASAURI,.,48970,SPAIN,FGL,48970 BASAURI SPAIN,43.2359392,-2.8894963
-EMEA,TELDE,LAS PALMAS DE GRAN CANARIA,35219,Spain,FGL,35219 TELDE Spain,27.9541366,-15.4009508
-EMEA,Coslada,Madrid,28820,SPAIN,FGL,28820 Coslada SPAIN,40.4256972,-3.5353309
-EMEA,Gothenburg,...,41101,SWEDEN,FGL,41101 Gothenburg SWEDEN,57.7080805,11.9871363
-EMEA,Stockholm,Spånga,S-163 08,SWEDEN,FGL,S-163 08 Stockholm SWEDEN,59.1828226,17.6336069
-EMEA,Embrach Embraport,.,8423,SWITZERLAND,FGL,8423 Embrach Embraport SWITZERLAND,47.5176579,8.592231
-EMEA,Istanbul,TURKEY,34555,TURKEY,FGL,34555 Istanbul TURKEY,41.1267362,28.6279356
-EMEA,"Al-Quoz, Dubai",Dubai,.,UNITED ARAB EMIRATES,FGL,". Al-Quoz, Dubai UNITED ARAB EMIRATES",25.1514047,55.250782
-EMEA,Belfast,Antrim,BT36 7LS,UNITED KINGDOM,FGL,BT36 7LS Belfast UNITED KINGDOM,54.6940043,-5.9555919
-EMEA,Birmingham,.,B90 4NZ,UNITED KINGDOM,FGL,B90 4NZ Birmingham UNITED KINGDOM,52.3951129,-1.8308304
-EMEA,Bristol,.,BS5 7 DR,UNITED KINGDOM,FGL,BS5 7 DR Bristol UNITED KINGDOM,51.4588136,-2.5324774
-EMEA,Coventry,United Kingdom,CV6 5RY,UNITED KINGDOM,FGL,CV6 5RY Coventry UNITED KINGDOM,52.4191594,-1.4896285
-EMEA,Cardiff,United Kingdom,CF3 2PU,UNITED KINGDOM,FGL,CF3 2PU Cardiff UNITED KINGDOM,51.5038241,-3.1133391
-EMEA,Livingston,West lothian,EH54 5QS,UNITED KINGDOM,FGL,EH54 5QS Livingston UNITED KINGDOM,55.915002,-3.5090833
-EMEA,Glasgow,United Kingdom,ML5 4NS,UNITED KINGDOM,FGL,ML5 4NS Glasgow UNITED KINGDOM,55.8588731,-4.0297036
-EMEA,Leeds,United Kingdom,LS9 0SF,UNITED KINGDOM,FGL,LS9 0SF Leeds UNITED KINGDOM,53.7846906,-1.5123401
-EMEA,Doncaster,United Kingdom,DN6 7BH,UNITED KINGDOM,FGL,DN6 7BH Doncaster UNITED KINGDOM,53.5758948,-1.16967
-EMEA,Bedfont,MIDDLESEX,TW14 8RS,UNITED KINGDOM,FGL,TW14 8RS Bedfont UNITED KINGDOM,51.453461,-0.437216
-EMEA,Colnbrook,United Kingdom,SL3 ONJ,UNITED KINGDOM,FGL,SL3 ONJ Colnbrook UNITED KINGDOM,51.4815265,-0.5089897
-EMEA,London,.United Kingdom,EC2A 3NN,UNITED KINGDOM,FGL,EC2A 3NN London UNITED KINGDOM,51.5230415,-0.0796712
-EMEA,Hatfield,United Kingdom,AL10 8BJ,UNITED KINGDOM,FGL,AL10 8BJ Hatfield UNITED KINGDOM,51.7622982,-0.2169695
-EMEA,Milton Keynes,United Kingdom,MK14 6GD,UNITED KINGDOM,FGL,MK14 6GD Milton Keynes UNITED KINGDOM,52.0597745,-0.7636319
-EMEA,MANCHESTER,WYTHENSHAWE,M23 9 PH,UNITED KINGDOM,FGL,M23 9 PH MANCHESTER UNITED KINGDOM,53.479251,-2.247926
-EMEA,Warrington,United Kingdom,WA3 6SZ,UNITED KINGDOM,FGL,WA3 6SZ Warrington UNITED KINGDOM,53.4307931,-2.5190589
-EMEA,WASHINGTON,TYNE AND WEAR,NE38 0AD,UNITED KINGDOM,FGL,NE38 0AD WASHINGTON UNITED KINGDOM,54.9028928,-1.5572063
-EMEA,Southampton,United Kingdom,SO17 3SD,UNITED KINGDOM,FGL,SO17 3SD Southampton UNITED KINGDOM,50.9325706,-1.3836811
-LATAM,San Martin,Buenos Aires,1672,ARGENTINA,FGL,1672 San Martin ARGENTINA,-33.027521,-68.8756668
-LATAM,Devonshire,.,DV01,BERMUDA,FGL,DV01 Devonshire BERMUDA,32.3016272,-64.7706984
-LATAM,Santa Cruz,*,*,BOLIVIA,FGL,* Santa Cruz BOLIVIA,-17.8666667,-63
-LATAM,Brasilia,Distrito Federal,70760-767,BRAZIL,FGL,70760-767 Brasilia BRAZIL,-15.74609,-47.8983281
-LATAM,BOQUEIRAO,Parana,83010-290,BRAZIL,FGL,83010-290 BOQUEIRAO BRAZIL,-25.5351174,-49.1828385
-LATAM,SAO PAULO,Sao Paulo,05035-000,BRAZIL,FGL,05035-000 SAO PAULO BRAZIL,-23.5107031,-46.704951
-LATAM,CANOAS,Rio Grande do Sul,92420-180,BRAZIL,FGL,92420-180 CANOAS BRAZIL,-29.8870294,-51.1761861
-LATAM,ABREU E LIMA,PERNAMBUCO,53520-785,BRAZIL,FGL,53520-785 ABREU E LIMA BRAZIL,-7.922339,-34.900346
-LATAM,RIO DE JANEIRO,Rio de Janeiro,21041-170,BRAZIL,FGL,21041-170 RIO DE JANEIRO BRAZIL,-22.8735104,-43.2509416
-LATAM,Salvador,Bahia,41300-501,BRAZIL,FGL,41300-501 Salvador BRAZIL,-12.8726757,-38.4330645
-LATAM,SANTIAGO,REGION METROPOLITANA,.,CHILE,FGL,. SANTIAGO CHILE,-33.4691199,-70.641997
-LATAM,Bogota,.,.,Colombia,FGL,. Bogota Colombia,4.5980556,-74.0758333
-LATAM,Bogota,.,.,Colombia,FGL,. Bogota Colombia,4.5980556,-74.0758333
-LATAM,Medellin,.,.,Colombia,FGL,. Medellin Colombia,6.235925,-75.575137
-LATAM,San Jose,San Jose,.,COSTA RICA,FGL,. San Jose COSTA RICA,9.927128,-84.082012
-LATAM,Santo Domingo,Distrito Nacional,.,DOMINICAN REPUBLIC,FGL,. Santo Domingo DOMINICAN REPUBLIC,18.5,-69.9833333
-LATAM,Quito,.,.,ECUADOR,FGL,. Quito ECUADOR,-0.2166667,-78.5166667
-LATAM,Acapulco,Guerrero,39715,Mexico,FGL,39715 Acapulco Mexico,16.8970065,-99.8208632
-LATAM,Aguascalientes,Aguascalientes,20290,Mexico,FGL,20290 Aguascalientes Mexico,21.8446176,-102.2862694
-LATAM,Leon,Guanajuato,37290,Mexico,FGL,37290 Leon Mexico,21.1043674,-101.6285767
-LATAM,Cd. Obregon,Sonora,85000,Mexico,FGL,85000 Cd. Obregon Mexico,27.4923307,-109.9347996
-LATAM,Cd. Juarez,Chihuahua,32670,Mexico,FGL,32670 Cd. Juarez Mexico,31.6781729,-106.4670909
-LATAM,Cd. Del Carmen,Campeche,24150,Mexico,FGL,24150 Cd. Del Carmen Mexico,18.6515243,-91.7764003
-LATAM,Campeche,Campeche,24070,Mexico,FGL,24070 Campeche Mexico,19.8283979,-90.5080634
-LATAM,Culiacan,Sinaloa,60450,Mexico,FGL,60450 Culiacan Mexico,24.8048499,-107.385498
-LATAM,Cancun,Quintana Roo,77500,Mexico,FGL,77500 Cancun Mexico,21.1295466,-86.8170132
-LATAM,Chihuahua,Chihuahua,31136,Mexico,FGL,31136 Chihuahua Mexico,28.7235249,-106.1169299
-LATAM,Cuernavaca,Morelos,62579,Mexico,FGL,62579 Cuernavaca Mexico,18.9340199,-99.2314826
-LATAM,Durango,Durango,34220,Mexico,FGL,34220 Durango Mexico,24.0415227,-104.6252621
-LATAM,Hermosillo,Sonora,83220,Mexico,FGL,83220 Hermosillo Mexico,29.0864916,-111.0370989
-LATAM,Matamoros,Tamaulipas,87394,Mexico,FGL,87394 Matamoros Mexico,25.7938038,-97.5193093
-LATAM,Ciudad de Mexico,D.F.,2120,Mexico,FGL,2120 Ciudad de Mexico Mexico,19.2644461,-99.1156329
-LATAM,Merida,Yucatan,97390,Mexico,FGL,97390 Merida Mexico,20.8849025,-89.74269
-LATAM,Morelia,Michoacan,58000,Mexico,FGL,58000 Morelia Mexico,19.7020748,-101.192885
-LATAM,Coatzacoalcos,Veracruz,96536,Mexico,FGL,96536 Coatzacoalcos Mexico,18.1351167,-94.4928531
-LATAM,Monterrey,Nuevo Leon,64350,Mexico,FGL,64350 Monterrey Mexico,25.7301705,-100.382075
-LATAM,Mexicali,Baja California Norte,21190,Mexico,FGL,21190 Mexicali Mexico,32.6183516,-115.5236968
-LATAM,Mazatlan,Sinaloa,82190,Mexico,FGL,82190 Mazatlan Mexico,23.2435714,-106.3846459
-LATAM,Nuevo Laredo,Tamaulipas,88260,Mexico,FGL,88260 Nuevo Laredo Mexico,27.4669558,-99.5145127
-LATAM,Oaxaca,Oaxaca,68030,Mexico,FGL,68030 Oaxaca Mexico,17.0735385,-96.7400326
-LATAM,Puebla,Puebla,72100,Mexico,FGL,72100 Puebla Mexico,19.1258325,-98.2240321
-LATAM,Pachuca,Hidalgo,42080,Mexico,FGL,42080 Pachuca Mexico,20.1097807,-98.7618849
-LATAM,Queretaro,Queretaro,76154,Mexico,FGL,76154 Queretaro Mexico,20.5967972,-100.4041902
-LATAM,San Luis Potosi,SLP,78395,Mexico,FGL,78395 San Luis Potosi Mexico,22.1564699,-100.9855409
-LATAM,Tampico,Tmaulipas,89339,Mexico,FGL,89339 Tampico Mexico,22.2552778,-97.8686111
-LATAM,Tapachula,Chiapas,30700,Mexico,FGL,30700 Tapachula Mexico,14.9,-92.2666667
-LATAM,Tuxtla Gutierrez,Chiapas,29050,Mexico,FGL,29050 Tuxtla Gutierrez Mexico,16.7170779,-93.1629063
-LATAM,Tijuana,BC Norte,22500,Mexico,FGL,22500 Tijuana Mexico,32.533489,-117.018204
-LATAM,Tepic,Nayarit,63173,Mexico,FGL,63173 Tepic Mexico,21.4824852,-104.8440026
-LATAM,Torreon,Coahuila,27010,Mexico,FGL,27010 Torreon Mexico,25.5634056,-103.4193903
-LATAM,Veracruz,Veracruz,91697,Mexico,FGL,91697 Veracruz Mexico,19.1902778,-96.1533333
-LATAM,Villahermosa,Tabasco,86010,Mexico,FGL,86010 Villahermosa Mexico,18.0307398,-92.9063613
-LATAM,Zacatecas,Zacatecas,98600,Mexico,FGL,98600 Zacatecas Mexico,22.748282,-102.5168968
-LATAM,Manzanillo,Colima,28210,Mexico,FGL,28210 Manzanillo Mexico,19.0689992,-104.2991973
-LATAM,Zamora,Michoacan,59690,Mexico,FGL,59690 Zamora Mexico,19.9712511,-102.2819765
-LATAM,Managua,.,.,NICARAGUA,FGL,. Managua NICARAGUA,12.1363889,-86.2513889
-LATAM,Lima,Lima,21,PERU,FGL,21 Lima PERU,-12.0991844,-76.8623909
-LATAM,Caracas,Distrito Federal,1060,VENEZUELA,FGL,1060 Caracas VENEZUELA,10.4835348,-66.8598459
-USCA,Edmonton,AB,T5H 3E7,CANADA,FGL,T5H 3E7 Edmonton CANADA,53.5483141,-113.5125409
-USCA,Dartmouth,NS,B3B 1J1,CANADA,FGL,B3B 1J1 Dartmouth CANADA,44.7058903,-63.6056571
-USCA,Kamloops,BC,V2B 8A7,CANADA,FGL,V2B 8A7 Kamloops CANADA,50.7058307,-120.3732596
-USCA,Kelowna,BC,V1Y 7G7,CANADA,FGL,V1Y 7G7 Kelowna CANADA,49.8984036,-119.4861413
-USCA,Markham,ON,L3R 1J1,CANADA,FGL,L3R 1J1 Markham CANADA,43.820042,-79.3447955
-USCA,Windsor,ON,N8X 5E5,CANADA,FGL,N8X 5E5 Windsor CANADA,42.3023692,-83.0245567
-USCA,Lethbridge,AB,T1H 5J1,CANADA,FGL,T1H 5J1 Lethbridge CANADA,49.724001,-112.7832668
-USCA,Regina,SK,S4N 5X3,CANADA,FGL,S4N 5X3 Regina CANADA,50.473942,-104.5723038
-USCA,Thunder Bay,ON,P7B 4A5,CANADA,FGL,P7B 4A5 Thunder Bay CANADA,48.4061865,-89.2467645
-USCA,Grand Prairie,AB,T8V 6W1,CANADA,FGL,T8V 6W1 Grand Prairie CANADA,55.1832459,-118.817836
-USCA,Timmins,ON,P4N 2S6,CANADA,FGL,P4N 2S6 Timmins CANADA,48.4755265,-81.3364195
-USCA,Montreal,QC,H3J 1R5,CANADA,FGL,H3J 1R5 Montreal CANADA,45.4870092,-73.5670075
-USCA,Dorval,QC,H9P 1H7,CANADA,FGL,H9P 1H7 Dorval CANADA,45.487099,-73.7744756
-USCA,Vancouver,BC,V6A 1C7,CANADA,FGL,V6A 1C7 Vancouver CANADA,49.2838353,-123.0921976
-USCA,Richmond,BC,V6X 1X5,CANADA,FGL,V6X 1X5 Richmond CANADA,49.1788776,-123.1426075
-USCA,Rimouski,QC,G5L 6C7,CANADA,FGL,G5L 6C7 Rimouski CANADA,48.4383926,-68.5279139
-USCA,Calgary,AB,T2G 1J9,CANADA,FGL,T2G 1J9 Calgary CANADA,51.0372151,-114.0301147
-USCA,Paradise,NF,A1L 0A7,CANADA,FGL,A1L 0A7 Paradise CANADA,47.5325407,-52.8754291
-USCA,Mississauga,ON,L4Y 3Y4,CANADA,FGL,L4Y 3Y4 Mississauga CANADA,43.5965138,-79.5891391
-USCA,Toronto,ON,M5A 1P6,CANADA,FGL,M5A 1P6 Toronto CANADA,43.6532726,-79.3674993
+City,State,Zip,Country
+Buenos Aires,Buenos Aires,,Argentina
+Homebush West,NSW,2140,Australia
+North Rockhampton,QLD,4701,Australia
+Welshpool,WA,6103,Australia
+South Melbourne,VIC,3205,Australia
+Sandy Bay,Tasmania,7005,Australia
+Northern Territory,Darwin,810,Australia
+Fyshwick,ACT,2609,Australia
+Eagle Farm,QLD,4009,Australia
+Ridleyton,SA,5008,Australia
+Wien,Wien,1210,Austria
+Leonding,Linz,A-4060,Austria
+Al-Hidd,Muharaq,,Bahrain
+Dhaka,Dhaka,,Bangladesh
+Brucargo,Brucargo,1931,Belgium
+Devonshire,Devonshire,,Bermuda
+Santa Cruz de la Sierra,Santa Cruz de la Sierra,,Bolivia
+Salvador,Bahia,41300-501,Brazil
+Rio de Janeiro,Rio de Janeiro,21041-170,Brazil
+Abreu E Lima,Pernambuco,53520-785,Brazil
+Cachoeirinha,Rio Grande do Sul,94930-000,Brazil
+Sao Paulo,Sao Paulo,05035-000,Brazil
+Fortaleza,Ceara,60864-520,Brazil
+Tijucas,SC,88200-000,Brazil
+Curitiba,Paraná,81170-230,Brazil
+Brasilia,Distrito Federal,70760-767,Brazil
+Belo Horizonte,Minas Gerais,30430-480,Brazil
+Cambodia,Phnom Penh,,Cambodia
+Winnipeg,Manitoba,R3H 0C2,Canada
+Toronto,Ontario,M5A 1P6,Canada
+Mississauga,ON,L5T 2B2,Canada
+Paradise,Newfoundland,A1L 0A7,Canada
+Calgary,Alberta,T2E 6J8,Canada
+Rimouski,QC,G5L 6C7,Canada
+Vancouver,BC,V6A 1C7,Canada
+Montreal,QC,H3J 1R5,Canada
+Timmins,ON,P4N 2K8,Canada
+Saint John,NB,E2L 5Y4,Canada
+Grand Prairie,Alberta,T8V 6W1,Canada
+Thunder Bay,Ontario,P7B 4A5,Canada
+Regina,Saskatchewan,S4N 5X3,Canada
+Moncton,NB,E1H3L9,Canada
+Lethbridge,Alberta,T1H 5J1,Canada
+Windsor,Ontario,N8X 5E5,Canada
+Ottawa,ON,K1G 0Z1,Canada
+Markham,Ontario,L3R 1J1,Canada
+Kelowna,BC,V1X 4A4,Canada
+Kelowna,British Columbia,V1Y 7G7,Canada
+Kamloops,BC,V2B 8A7,Canada
+Dartmouth,Nova Scotia,B3B 1J1,Canada
+Edmonton,AB,T5H 3E7,Canada
+Sault Ste Marie,Ontario,P6B 0B9,Canada
+Santiago de Chile,Santiago de Chile,,Chile
+Shenzhen,Shenzhen,518000,China
+Shenyang,Liaoning,110179,China
+Pudong,Shanghai,201203,China
+Shanghai,Shanghai,201201,China
+Shanghai,Shanghai,201203,China
+Guangzhou,Guangdong,,China
+Da Xing Qu,Beijing,100176,China
+Beijing,Beijing,101300,China
+Beijing,Beijing,100101,China
+Beijing,Beijing,100101,China
+Monteria,,,Colombia
+Medelin,Medelin,,Colombia
+Bogota,Bogota,,Colombia
+San Jose,San Jose,10108,Costa Rica
+Liberia,Guanacaste,50101,Costa Rica
+Rijeka,,51000,Croatia
+Praha-Praha 17,,163 000,Czech Republic
+Vallensbaek,Vallensbaek,2665,Denmark
+Santo Domingo,Santo Domingo,10700,Dominican Republic
+Quito,,,Ecuador
+Cairo,,11111,Egypt
+Espoo,,2630,Finland
+Sassenage,,38360,France
+Saint Alban,France,31140,France
+Mundolsheim,,67450,France
+Orvault,,44700,France
+Cesson-Sevinge,,35510,France
+Aix En Provence,Aix En Provence,13090,France
+Villeurbanne,,69100,France
+Lesquin,,59810,France
+Courbevoie,,92400,France
+Villeneuve-la-Garenne,,92390,France
+Tremblay-en-France,,93290,France
+Floirac,,33270,France
+Regensburg,,93053,Germany
+Berlin,Berlin,12459,Germany
+Dahlwitz-hoppegarden,,15366,Germany
+Leonberg,Stuttgart,71229,Germany
+Leonberg,Stutgart,71229,Germany
+Schwarzenfeld,,92521,Germany
+Fraunberg - Tittenkofen,,85447,Germany
+Unterschleisheim,Munchen,85716,Germany
+Leipzig,,4179,Germany
+Hamburg,,20537,Germany
+Harburg,,20537,Germany
+Mainz-Kastel,,55252,Germany
+Raunheim,,65479,Germany
+Roedermark,,63322,Germany
+Düsseldorf,,40227,Germany
+Dussedorf,,40595,Germany
+Gibraltar,,GX1111A,Gibraltar
+Athens,,10558,Greece
+Tamuning,,96931,Guam
+Hong Kong,Hong Kong,,Hong Kong
+Hong Kong,Hong Kong,,Hong Kong
+Budapest,,1211,Hungary
+Kolkata,West Bengal,1,India
+Kanpur,Uttar Pradesh,1,India
+Pune,Maharashtra,1,India
+Chennai,Tamil Nadu,1,India
+Hyderabad,Andhara Pradesh,1,India
+Gurgaon,Haryana,1,India
+New Dehli,Delhi,1,India
+Mumbai,Maharashtra,1,India
+Navi Mumbai,Maharashtra,1,India
+Bangalore,Karnataka,1,India
+Kolkata,West Bengal,1,India
+Jakarta,Jakarta,13620,Indonesia
+Dublin,Dublin,Dublin 9,Ireland
+Cork,Cork,,Ireland
+Limerick City,Limerick,,Ireland
+Santry,Dublin,Dublin 9,Ireland
+Tel Aviv,,67443,Israel
+Fiano Romano,,65,Italy
+Sant'antonio Abate,Napoli,,Italy
+Pechiera Borromeo,,20068,Italy
+Cinisello Balsamo,Milano,,Italy
+Fiumicino,Rome,54,Italy
+Kobe-shi,Hyogo,654-0161 ,Japan
+Yamaguchi-shi,Yamaguchi,754-0897,Japan
+Tottori-shi,Tottori,680-0942,Japan
+Toyama-shi,Toyama,930-0901,Japan
+Itano-gun,Tokushima,771-0206,Japan
+Sakaide-shi,Kagawa,762-0012,Japan
+Abashiri,Hokkaido,093-0088,Japan
+Tanabe-shi,Wakayama,646-0058,Japan
+Sado-shi,Niigata,952-0212,Japan
+Shibata-gun,Miyagi,989-1606,Japan
+Kesennuma-shi,Miyagi,988-0184,Japan
+Ishinomaki-shi,Miyagi,986-0805,Japan
+Osaki-shi,Miyagi,989-6255,Japan
+Sendai-shi,Miyagi,983-0034,Japan
+Nasushiobara-shi,Tochigi,329-2702,Japan
+Imaichi-shi,Tochigi,321-2332,Japan
+Utsunomiya-shi,Tochigi,320-0071,Japan
+Kashima-shi,Ibaraki,314-0022,Japan
+Naka-shi,Ibaraki,311-0117,Japan
+Chikusai-shi,Ibaraki,308-0114,Japan
+Omitama-shi,Ibaraki,319-0102,Japan
+Tsuchiura-shi,Ibaraki,300-0038,Japan
+Tatebayashi-shi,Gunma,374-0006,Japan
+Agatsuma-gun,Gunma,377-0423,Japan
+Maebashi-shi,Gunma,379-2134,Japan
+Mobara-shi,Chiba,297-0017,Japan
+Asahi-shi,Chiba,289-2505,Japan
+Katsuura-shi,Chiba,299-5264,Japan
+Funabashi-shi,Chiba,273-0039,Japan
+Higashiosaka,Osaka,577-0053,Japan
+Yamato Koriyama-shi,Nara,639-1124,Japan
+Kyoto-shi,Kyoto,601-8132,Japan
+Osaka-shi,Osaka,555-0042,Japan
+Osaka-shi,Osaka,538-0037,Japan
+Odate-shi,Akita,017-0854,Japan
+Chichibu-shi,Saitama,369-1871,Japan
+Saitama-shi,Saitama,331-0046,Japan
+Tsuyama-shi,Okayama,708-0841,Japan
+Okayama-shi,Okayama,701-0202,Japan
+Noshiro-shi,Akita,016-0171,Japan
+Sapporo-shi,Hokkaido,003-0011,Japan
+Naha-shi,Okinawa,900-0004,Japan
+Oita-shi,Oita,870-0018,Japan
+Obihiro,Hokkaido,080-2470,Japan
+Chiba-shi,Chiba,260-0808,Japan
+Ome-shi,Tokyo,198-0032,Japan
+Shinagawa-ku,Tokyo,140-0002,Japan
+Tajimi-shi,Gifu,507-0048,Japan
+Hashima-gun,Gifu,501-6013,Japan
+Nishisonogi-gun,Nagasaki,851-2102,Japan
+Suzukashi,Mie,513-0819,Japan
+Tsu-shi,Mie,514-0817,Japan
+Nagoya-shi,Aichi,462-0845,Japan
+Imabari-shi,Ehime,799-1504,Japan
+Kanonji-shi,Kagawa,768-0011,Japan
+Uwajima-shi,Ehime,798-0020,Japan
+Matsuyama-shi,Ehime,791-8044,Japan
+Kofu-shi,Yamanashi,400-0054 ,Japan
+Iida-shi,Nagano,395-0153,Japan
+Ina-shi,Nagano,396-0023,Japan
+Suwa-shi,Nagano,392-0013,Japan
+Saku-shi,Nagano,385-0051,Japan
+Ueda-shi,Nagano,386-0003,Japan
+Matsumoto,Nagano,399-0033,Japan
+Nagano-shi,Nagano,381-0025,Japan
+Kitami-shi,Hokkaido,099-0878,Japan
+Kushiro-shi,Hokkaido,084-0912,Japan
+Kagoshima-shi,Kagoshima,890-0033,Japan
+Kanazawa-shi,Ishikawa,920-3134,Japan
+Kumamoto-shi,Kumamoto,862-0967,Japan
+Mimata,Miyazaki,889-1914,Japan
+Miyazaki-shi,Miyazaki,880-0211,Japan
+Wakayama-shi,Wakayama,640-8341,Japan
+Nagaoka-shi,Niigata,940-2112,Japan
+Iwafume-gun,Niigata,959-3241,Japan
+Niigata-shi,Niigata,950-1126,Japan
+Sanjyo-shi,Niigata,955-0046,Japan
+Jyoetsu-shi,Niigata,943-0821,Japan
+Tokamachi-shi,Niigata,948-0073,Japan
+Kochi-shi,Kochi,783-0052,Japan
+Izumoshi,Shimane,693-0053,Japan
+Hamada-shi,Shimane,697-0034,Japan
+Yonago-shi,Tottori,683-0853,Japan
+Shunan,Yamaguchi,745-0063,Japan
+Yashio-shi,Saitama,340-0834,Japan
+Higashi Matsuyama,Saitama,355-0072,Japan
+Hachioji-shi,Tokyo,192-0063,Japan
+Kodaira-shi,Tokyo,187-0013,Japan
+Isehara-shi,Kanagawa,259-1121,Japan
+Minato-ku,Tokyo,108-0075,Japan
+Yokohama-shi,Kanagawa,221-0024,Japan
+Futtsu-shi,Chiba,293-0043,Japan
+Odawara-shi,Kanagawa,256-0812,Japan
+Yokosuka-shi,Kanagawa,238-0023,Japan
+Tateyama-shi,Chiba,294-0045,Japan
+Ryutsu Center Minami,Iwate,020-0891,Japan
+Kuji-shi,Iwate,028-0071,Japan
+Oshu-Shi,Iwate,023-0841,Japan
+Hanamaki-shi,Iwate,025-0024,Japan
+Hokuto,Hokkaido,041-1215,Japan
+Fukuyama-shi,Hiroshima,721-0964,Japan
+Hiroshima-shi,Hiroshima,734-0013,Japan
+Hachinohe-shi,Aomori,039-1164,Japan
+Yonezawa-shi,Yamagata,992-0021,Japan
+Shinjo-shi,Yamagata,996-0041,Japan
+Sakata-shi,Yamagata,998-0851,Japan
+Yamagata-shi,Yamagata,990-0024,Japan
+Tosu-shi,Saga,841-0042,Japan
+Kita Kyushu-shi,Fukuoka,802-0072,Japan
+Fukuoka-shi,Fukuoka,813-0023,Japan
+Fukuroi-shi,Shizuoka,437-0056,Japan
+Shizuoka-shi,Shizuoka,424-0064,Japan
+Nishi Shirakawa-gun,Fukushima ,969-0206,Japan
+Iwaki-shi,Fukushima ,973-8409,Japan
+Minami soma,Fukushima ,975-0076,Japan
+Sukagawa-shi,Fukushima ,962-0403 ,Japan
+Onuma-gun,Fukushima ,969-6207,Japan
+Minamiaizu-gun,Fukushima ,967-0004,Japan
+Tamura-gun,Fukushima ,963-7732,Japan
+Fukushima-shi,Fukushima ,960-8164,Japan
+Sabae-shi,Fukui,916-0016,Japan
+Tomakomai-shi,Hokkaido,053-0053?,Japan
+Muroran-shi,Hokkaido,050-0075,Japan
+Abuta-gun,Hokkaido,044-0051 ,Japan
+Yokote-shi,Akita,013-0008,Japan
+Senboku-gun,Akita,019-1404,Japan
+Akita-shi,Akita,011-0901,Japan
+Mutsu-shi,Aomori,035-0011,Japan
+Goshogawara-shi,Aomori,037-0202,Japan
+Kamikita-gun,Aomori,039-2666,Japan
+Hirosaki-shi,Aomori,036-8083,Japan
+Aomori-shi,Aomori,030-0946,Japan
+Wakkanai,Hokkaido,097-0011,Japan
+Takikawa-shi,Hokkaido,073-0004,Japan
+Kamikawa-gun,Hokkaido,071-1247 ,Japan
+Busan,,617-050,Korea
+Yongin-si,,446-904,Korea
+Seoul,,157-847,Korea
+Hawally,,,Kuwait
+Al-Ardiya,Al Farwaniyah Governorate,,Kuwait
+Macau,Macau,100,Macau
+Seremban,Negeri Sembilan,70300,Malaysia
+Klia,Pahang,64000,Malaysia
+ Il Moll Tal Hatab,Marsa,MRS1440,Malta
+Nuevo Laredo,Tamaulipas,88190,Mexico
+Zamora,Michoacan,59690,Mexico
+Manzanillo,Colima,28210,Mexico
+Zacatecas,Zacatecas,98600,Mexico
+Villahermosa,Tabasco,86010,Mexico
+Veracruz,Veracruz,91697,Mexico
+Torreon,Coahuila,27010,Mexico
+Tepic,Tepic,,Mexico
+Tijuana,BC Norte,22500,Mexico
+Tuxtla Gutierrez,Chiapas,29050,Mexico
+Tapachula,Chiapas,30780,Mexico
+Tampico,Tmaulipas,89339,Mexico
+San Luis Potosi,SLP,78395,Mexico
+Queretaro,Queretaro,76154,Mexico
+Pachuca,Hildago,42080,Mexico
+Puebla,Puebla,72100,Mexico
+Oaxaca,Oaxaca,70430,Mexico
+Nogales,Sonora,84000,Mexico
+Nuevo Laredo,Tamaulipas,88260,Mexico
+Mazatlan,Sinaloa,82190,Mexico
+Mexicali,Baja California Norte,21190,Mexico
+Monterrey,Nuevo Leon,64350,Mexico
+Coatzacoalcos,Veracruz,96536,Mexico
+Morelia,Morelia,58000,Mexico
+Merida,Yucatan,97390,Mexico
+Ciudad de Mexico,D.F.,2120,Mexico
+Matamoros,Tamaulipas,87394,Mexico
+Hermosillo,Sonora,83220,Mexico
+Tlaquepaque,Jalisco,45610,Mexico
+Durango,Durango,34220,Mexico
+Cuernavaca,Morelos,62579,Mexico
+Chihuahua,Chihuahua,31136,Mexico
+Cancun,Quintana Roo,77500,Mexico
+Culiacan,Sinaloa,60450,Mexico
+Chetumal,Quintana Roo,77000,Mexico
+Campeche,Campeche,24070,Mexico
+Cd. Del Carmen,Campeche,24150,Mexico
+Cd. Juarez,Chihuahua,32670,Mexico
+Cd. Obregon,Sonora,85000,Mexico
+Leon,Guanajuato,37290,Mexico
+Aguascalientes,Aguascalientes,20290,Mexico
+Acapulco,GRO,76805,Mexico
+Casablanca,,20100,Morocco
+Rozenburg,NH,3181,Netherlands
+Sockburn,Christchurch,8023,New Zealand
+Ngauranga,Wellington,6035,New Zealand
+Manukau,Auckland,2022,New Zealand
+Managua,Managua,,Nicaragua
+Oslo,,580,Norway
+Muscat,,,Oman
+Lima,Lima,1,Peru
+Paranaque,Paranaque,1700,Philippines
+Mandaue City,Cebu,6014,Philippines
+Wroclaw,Poland,52-404,Poland
+Warsaw,Warsaw,,Poland
+Moreira da Maia,,4470-600,Portugal
+Lisboa,,1100-287,Portugal
+San Juan,San Juan,923,Puerto Rico
+Doha,Doha,,Qatar
+Saint-Petersburg,,194,Russia
+Podolsk,Moscow,142101,Russia
+Riyadh,Riyadh,11195,Saudi Arabia
+Ar Riyad,,13311,Saudi Arabia
+Jeddah,,21433,Saudi Arabia
+Jiddah,,23531,Saudi Arabia
+Singapore,,498827,Singapore
+Ljubljana,,1511,Slovenia
+Kempton Park,Gauteng,,South Africa
+Cape Town,Western Cape,7525,South Africa
+La Coruna,,15190,Spain
+Coslada,Madrid,28821,Spain
+Las Palmas de Gran Canaria,Gran Canaria,35008,Spain
+Bilbao,Vizcaya,48015,Spain
+Hospitalet de Llobregat,,8960,Spain
+Colombo,Sri Lanka,1300,Sri Lanka
+St Thomas,,,St Thomas
+Skarholmen,,127 39,Sweden
+Sundsvall,Vasternorrlands lan,85650,Sweden
+Hisings Backa,,422 46,Sweden
+Embraport,Embrach,8423,Switzerland
+Geneva,,1202,Switzerland
+Pratteln,,4133,Switzerland
+Dayuan,Taoyuan,337,Taiwan
+Taiwan,Taoyuan,337,Taiwan
+Prawet ,Bangkok,10250,Thailand
+Istanbul,Istanbul,34782,Turkey
+Antalya,,7130,Turkey
+Dubai,Dubai,,UAE
+Dubai,Dubai,,UAE
+Sunbury,Middlesex,TW167DX,United Kingdom
+Edinburgh,Edinburgh,EH51RS,United Kingdom
+Leeds,Leeds,LS270EL,United Kingdom
+Bristol,Bristol,BS3 4DJ,United Kingdom
+Lemington,Newcastle Upon Tyne,NE158SG,United Kingdom
+Birmingham,Birmingham,B7 5QT,United Kingdom
+Crumlin,Belfast,BT294JP,United Kingdom
+St Saviour,Jersey,JE2 7JQ,United Kingdom
+St Peter Port,Guernsey,GY1 2BH,United Kingdom
+Sunbury,Middlesex,TW167DX,United Kingdom
+Basildon,Essex,SS14 3DX,United Kingdom
+Thetford,Norfolk,IP24 3RL,United Kingdom
+Southampton,Southampton,SO17 3SD,United Kingdom
+Washington,Tyne and Wear,NE38 0AD,United Kingdom
+Stretford,Manchester,M17 1AY,United Kingdom
+Manchester,Wythenshawe,M23 9PH,United Kingdom
+Milton Keynes,Milton Keynes,MK14 6GD,United Kingdom
+Hatfield,,AL10 8BJ,United Kingdom
+London,London,EC2A 3NN,United Kingdom
+Colnbrook,Colnbrook,SL3 ONJ,United Kingdom
+Feltham,Greater London,TW148RS,United Kingdom
+Crawley,West Sussex,RH10 9FZ,United Kingdom
+Maidstone,Kent,ME15 9YT,United Kingdom
+Doncaster,South Yorkshire,DN6 7BH,United Kingdom
+Leeds,West Yorkshire,LS9 0SJ,United Kingdom
+Glasgow,Lanarkshire,ML5 4NS,United Kingdom
+Nottingham,Nottingham,NG6 0DW,United Kingdom
+Livingston,West Lothian,EH54 5QS,United Kingdom
+London,London,EC4M 7RT,United Kingdom
+Cardiff,Cardiff,CF11 8TT,United Kingdom
+Coventry,West Midlands,CV6 5RY,United Kingdom
+Bristol,Bristol,BS5 7DR,United Kingdom
+Shirley,West Midlands,B90 4NZ,United Kingdom
+Antrim,Antrim,BT41 4LY,United Kingdom
