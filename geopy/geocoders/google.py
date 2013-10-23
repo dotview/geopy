@@ -11,10 +11,12 @@ except ImportError:
 from geopy.geocoders.base import Geocoder,GeocoderError,GeocoderResultError
 from geopy import Point, Location, util
 
+from warnings import warn
+
 class Google(Geocoder):
     """Geocoder using the Google Maps API."""
     
-    def __init__(self, api_key=None, domain='maps.google.com',
+    def __init__(self, api_key=None, domain='maps.googleapis.com',
                  format_string='%s'):
         """Initialize a customized Google geocoder with location-specific
         address information and your Google Maps API key.
@@ -30,6 +32,31 @@ class Google(Geocoder):
         geocode should be interpolated before querying the geocoder.
         For example: '%s, Mountain View, CA'. The default is just '%s'.
         """
+        
+        warn('geopy.geocoders.google: The `geocoders.google.Google` geocoder uses the '+
+            'older "V2" API and is deprecated and may be broken at any time. A '+
+            'geocoder utilizing the "V3" API is available at '+
+            '`geocoders.googlev3.GoogleV3` and will become the default in a future '+
+            'version. See RELEASES file and http://goo.gl/somDT for usage information.',
+            DeprecationWarning
+        )
+        
+        if not api_key:
+            raise ValueError(
+                "The `geocoders.google.Google` (V2) API now requires the "+
+                "`api_key` argument. Please acquire and use an API key "+
+                "(http://goo.gl/EdoHX) or upgrade to "+
+                "the V3 API (`geocoders.googlev3.GoogleV3`), which does "+
+                "not require a key. ---- Please note that the V2 API is " +
+                "deprecated and may not work after March 2013 or September 2013."
+            )
+        if domain == "maps.google.com":
+            raise ValueError(
+                "The `geocoders.google.Google` (V2) API now requires the "+
+                "`domain` argument to be set to 'maps.googleapis.com'. Please "+
+                "change or remove your `domain` kwarg."
+            )
+
         self.api_key = api_key
         self.domain = domain
         self.format_string = format_string
@@ -41,12 +68,13 @@ class Google(Geocoder):
         return "http://%s/maps/geo?%%s" % domain
 
     def geocode(self, string, exactly_one=True):
+        if isinstance(string, unicode):
+            string = string.encode('utf-8')
         params = {'q': self.format_string % string,
                   'output': self.output_format.lower(),
+                  'key': self.api_key,
+                  'sensor': False
                   }
-        
-        if self.api_key:
-            params['key'] = self.api_key
         
         url = self.url % urlencode(params)
         return self.geocode_url(url, exactly_one)
@@ -57,23 +85,6 @@ class Google(Geocoder):
         
         dispatch = getattr(self, 'parse_' + self.output_format)
         return dispatch(page, exactly_one)
-
-        def parse_place(place):
-            location = util.get_first_text(place, ['address', 'name']) or None
-            points = place.getElementsByTagName('Point')
-            point = points and points[0] or None
-            coords = util.get_first_text(point, 'coordinates') or None
-            if coords:
-                longitude, latitude = [float(f) for f in coords.split(',')[:2]]
-            else:
-                latitude = longitude = None
-                _, (latitude, longitude) = self.geocode(location)
-            return (location, (latitude, longitude))
-        
-        if exactly_one:
-            return parse_place(places[0])
-        else:
-            return [parse_place(place) for place in places]
 
     def parse_json(self, page, exactly_one=True):
         if not isinstance(page, basestring):

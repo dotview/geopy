@@ -1,4 +1,4 @@
-﻿#coding:utf-8
+#coding:utf-8
 
 import csv
 import json
@@ -8,12 +8,12 @@ class formatCSV():
 	"""format csv file, convert address to geo location"""
 	def __init__(self, geo_type='google', file_format='json'):
 		if geo_type == "google":	
-			self.g = geocoders.Google()  
+			self.g = geocoders.GoogleV3()  
 		elif geo_type == "mapquest":	
 			self.g =  geocoders.OpenMapQuest("0Fmjtd%7Cluua2d0r2l%2C2w%3Do5-hf7gl")
 		self.rows = []
 		self.file_format = file_format
-		self.FIELDS = ["Reporting Region",	"City",	"State",	"Zip",	"Country",	"FSL Provider" ]  
+		self.FIELDS = ["City",	"State",	"Zip",	"Country"]  
 	
 	def format(self):
 			self._readCSV()
@@ -25,9 +25,9 @@ class formatCSV():
 					
 	def _readCSV(self):
 			# append new columns
-			self.FIELDS.extend(["lat","lng"])
+			self.FIELDS.extend(["FullAddress","lat","lng"])
 
-			f = open( 'result_fsl.csv', 'r' )
+			f = open( 'fsl.csv', 'r' )
 			reader = csv.DictReader( f, fieldnames = self.FIELDS )
 			#skip the head row
 			next(reader)
@@ -36,10 +36,12 @@ class formatCSV():
 	
 	def _geoAddress(self):
 			for row in self.rows:
-					if (row["lat"] is None or row["lat"] == ""):
-							address = "%s %s" % (row["Zip"],  row["Country"])             
+					if (row["lat"] is None or row["lat"] != ""):
+							address = self._formatAddress(row)
+							#print address
+							#continue
 							try:                
-									place, (lat, lng) = self.g.geocode(address,False)[0]
+									place, (lat, lng) = self.g.geocode(address,exactly_one=False)
 									row["FullAddress"]  = address
 									row["lat"]  = lat
 									row["lng"]  = lng
@@ -47,10 +49,27 @@ class formatCSV():
 							except Exception, err:
 									print "%s : failed" % address, err.message
 									row["FullAddress"]  = address
-	
+	def _formatAddress(self,row):
+		country = row["Country"]
+		country = country.capitalize() if country !="USA" else country
+		row["Country"] = country
+		
+		state = row["State"]
+		state = state.capitalize() if len(state)>3 and state.isupper() else state
+		row["State"] = state.replace(".","").replace("*","")
+		
+		city = row["City"]
+		city = city.capitalize() if city.isupper() else city
+		row["City"] = city.replace(".","").replace("*","")
+		
+		address = "%s %s %s %s" % (city, state, row["Zip"],  country)  
+		address = address.replace(".","").replace("*","")
+
+		return  address.decode("ISO-8859-1")
+		
 	def _writeCSV(self):
 			# DictWriter  
-			csv_file = open('result_fsl.csv', 'wb')  
+			csv_file = open('result_fsl4.csv', 'wb')  
 			writer = csv.DictWriter(csv_file, fieldnames=self.FIELDS)  
 			# write header  
 			writer.writerow(dict(zip(self.FIELDS, self.FIELDS)))  
@@ -69,9 +88,9 @@ class formatCSV():
 				except Exception, err:
 					pass
 			'''
-			out = json.dumps( [ row for row in self.rows if  row["lat"] != "" ] )
+			out = json.dumps(  [ row for row in self.rows if  row["lat"] != "" ] , encoding="ISO-8859-1")
 			#print out
-			f = open('result_fsl.json','wb')
+			f = open('result_fsl4.json','wb')
 			f.write(out)
 			f.close()
 
