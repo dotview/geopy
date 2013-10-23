@@ -1,0 +1,399 @@
+City,State,Zip,Country
+Buenos Aires,Buenos Aires,,Argentina
+Homebush West,NSW,2140,Australia
+North Rockhampton,QLD,4701,Australia
+Welshpool,WA,6103,Australia
+South Melbourne,VIC,3205,Australia
+Sandy Bay,Tasmania,7005,Australia
+Northern Territory,Darwin,810,Australia
+Fyshwick,ACT,2609,Australia
+Eagle Farm,QLD,4009,Australia
+Ridleyton,SA,5008,Australia
+Wien,Wien,1210,Austria
+Leonding,Linz,A-4060,Austria
+Al-Hidd,Muharaq,,Bahrain
+Dhaka,Dhaka,,Bangladesh
+Brucargo,Brucargo,1931,Belgium
+Devonshire,Devonshire,,Bermuda
+Santa Cruz de la Sierra,Santa Cruz de la Sierra,,Bolivia
+Salvador,Bahia,41300-501,Brazil
+Rio de Janeiro,Rio de Janeiro,21041-170,Brazil
+Abreu E Lima,Pernambuco,53520-785,Brazil
+Cachoeirinha,Rio Grande do Sul,94930-000,Brazil
+Sao Paulo,Sao Paulo,05035-000,Brazil
+Fortaleza,Ceara,60864-520,Brazil
+Tijucas,SC,88200-000,Brazil
+Curitiba,Paraná,81170-230,Brazil
+Brasilia,Distrito Federal,70760-767,Brazil
+Belo Horizonte,Minas Gerais,30430-480,Brazil
+Cambodia,Phnom Penh,,Cambodia
+Winnipeg,Manitoba,R3H 0C2,Canada
+Toronto,Ontario,M5A 1P6,Canada
+Mississauga,ON,L5T 2B2,Canada
+Paradise,Newfoundland,A1L 0A7,Canada
+Calgary,Alberta,T2E 6J8,Canada
+Rimouski,QC,G5L 6C7,Canada
+Vancouver,BC,V6A 1C7,Canada
+Montreal,QC,H3J 1R5,Canada
+Timmins,ON,P4N 2K8,Canada
+Saint John,NB,E2L 5Y4,Canada
+Grand Prairie,Alberta,T8V 6W1,Canada
+Thunder Bay,Ontario,P7B 4A5,Canada
+Regina,Saskatchewan,S4N 5X3,Canada
+Moncton,NB,E1H3L9,Canada
+Lethbridge,Alberta,T1H 5J1,Canada
+Windsor,Ontario,N8X 5E5,Canada
+Ottawa,ON,K1G 0Z1,Canada
+Markham,Ontario,L3R 1J1,Canada
+Kelowna,BC,V1X 4A4,Canada
+Kelowna,British Columbia,V1Y 7G7,Canada
+Kamloops,BC,V2B 8A7,Canada
+Dartmouth,Nova Scotia,B3B 1J1,Canada
+Edmonton,AB,T5H 3E7,Canada
+Sault Ste Marie,Ontario,P6B 0B9,Canada
+Santiago de Chile,Santiago de Chile,,Chile
+Shenzhen,Shenzhen,518000,China
+Shenyang,Liaoning,110179,China
+Pudong,Shanghai,201203,China
+Shanghai,Shanghai,201201,China
+Shanghai,Shanghai,201203,China
+Guangzhou,Guangdong,,China
+Da Xing Qu,Beijing,100176,China
+Beijing,Beijing,101300,China
+Beijing,Beijing,100101,China
+Beijing,Beijing,100101,China
+Monteria,,,Colombia
+Medelin,Medelin,,Colombia
+Bogota,Bogota,,Colombia
+San Jose,San Jose,10108,Costa Rica
+Liberia,Guanacaste,50101,Costa Rica
+Rijeka,,51000,Croatia
+Praha-Praha 17,,163 000,Czech Republic
+Vallensbaek,Vallensbaek,2665,Denmark
+Santo Domingo,Santo Domingo,10700,Dominican Republic
+Quito,,,Ecuador
+Cairo,,11111,Egypt
+Espoo,,2630,Finland
+Sassenage,,38360,France
+Saint Alban,France,31140,France
+Mundolsheim,,67450,France
+Orvault,,44700,France
+Cesson-Sevinge,,35510,France
+Aix En Provence,Aix En Provence,13090,France
+Villeurbanne,,69100,France
+Lesquin,,59810,France
+Courbevoie,,92400,France
+Villeneuve-la-Garenne,,92390,France
+Tremblay-en-France,,93290,France
+Floirac,,33270,France
+Regensburg,,93053,Germany
+Berlin,Berlin,12459,Germany
+Dahlwitz-hoppegarden,,15366,Germany
+Leonberg,Stuttgart,71229,Germany
+Leonberg,Stutgart,71229,Germany
+Schwarzenfeld,,92521,Germany
+Fraunberg - Tittenkofen,,85447,Germany
+Unterschleisheim,Munchen,85716,Germany
+Leipzig,,4179,Germany
+Hamburg,,20537,Germany
+Harburg,,20537,Germany
+Mainz-Kastel,,55252,Germany
+Raunheim,,65479,Germany
+Roedermark,,63322,Germany
+Düsseldorf,,40227,Germany
+Dussedorf,,40595,Germany
+Gibraltar,,GX1111A,Gibraltar
+Athens,,10558,Greece
+Tamuning,,96931,Guam
+Hong Kong,Hong Kong,,Hong Kong
+Hong Kong,Hong Kong,,Hong Kong
+Budapest,,1211,Hungary
+Kolkata,West Bengal,1,India
+Kanpur,Uttar Pradesh,1,India
+Pune,Maharashtra,1,India
+Chennai,Tamil Nadu,1,India
+Hyderabad,Andhara Pradesh,1,India
+Gurgaon,Haryana,1,India
+New Dehli,Delhi,1,India
+Mumbai,Maharashtra,1,India
+Navi Mumbai,Maharashtra,1,India
+Bangalore,Karnataka,1,India
+Kolkata,West Bengal,1,India
+Jakarta,Jakarta,13620,Indonesia
+Dublin,Dublin,Dublin 9,Ireland
+Cork,Cork,,Ireland
+Limerick City,Limerick,,Ireland
+Santry,Dublin,Dublin 9,Ireland
+Tel Aviv,,67443,Israel
+Fiano Romano,,65,Italy
+Sant'antonio Abate,Napoli,,Italy
+Pechiera Borromeo,,20068,Italy
+Cinisello Balsamo,Milano,,Italy
+Fiumicino,Rome,54,Italy
+Kobe-shi,Hyogo,654-0161 ,Japan
+Yamaguchi-shi,Yamaguchi,754-0897,Japan
+Tottori-shi,Tottori,680-0942,Japan
+Toyama-shi,Toyama,930-0901,Japan
+Itano-gun,Tokushima,771-0206,Japan
+Sakaide-shi,Kagawa,762-0012,Japan
+Abashiri,Hokkaido,093-0088,Japan
+Tanabe-shi,Wakayama,646-0058,Japan
+Sado-shi,Niigata,952-0212,Japan
+Shibata-gun,Miyagi,989-1606,Japan
+Kesennuma-shi,Miyagi,988-0184,Japan
+Ishinomaki-shi,Miyagi,986-0805,Japan
+Osaki-shi,Miyagi,989-6255,Japan
+Sendai-shi,Miyagi,983-0034,Japan
+Nasushiobara-shi,Tochigi,329-2702,Japan
+Imaichi-shi,Tochigi,321-2332,Japan
+Utsunomiya-shi,Tochigi,320-0071,Japan
+Kashima-shi,Ibaraki,314-0022,Japan
+Naka-shi,Ibaraki,311-0117,Japan
+Chikusai-shi,Ibaraki,308-0114,Japan
+Omitama-shi,Ibaraki,319-0102,Japan
+Tsuchiura-shi,Ibaraki,300-0038,Japan
+Tatebayashi-shi,Gunma,374-0006,Japan
+Agatsuma-gun,Gunma,377-0423,Japan
+Maebashi-shi,Gunma,379-2134,Japan
+Mobara-shi,Chiba,297-0017,Japan
+Asahi-shi,Chiba,289-2505,Japan
+Katsuura-shi,Chiba,299-5264,Japan
+Funabashi-shi,Chiba,273-0039,Japan
+Higashiosaka,Osaka,577-0053,Japan
+Yamato Koriyama-shi,Nara,639-1124,Japan
+Kyoto-shi,Kyoto,601-8132,Japan
+Osaka-shi,Osaka,555-0042,Japan
+Osaka-shi,Osaka,538-0037,Japan
+Odate-shi,Akita,017-0854,Japan
+Chichibu-shi,Saitama,369-1871,Japan
+Saitama-shi,Saitama,331-0046,Japan
+Tsuyama-shi,Okayama,708-0841,Japan
+Okayama-shi,Okayama,701-0202,Japan
+Noshiro-shi,Akita,016-0171,Japan
+Sapporo-shi,Hokkaido,003-0011,Japan
+Naha-shi,Okinawa,900-0004,Japan
+Oita-shi,Oita,870-0018,Japan
+Obihiro,Hokkaido,080-2470,Japan
+Chiba-shi,Chiba,260-0808,Japan
+Ome-shi,Tokyo,198-0032,Japan
+Shinagawa-ku,Tokyo,140-0002,Japan
+Tajimi-shi,Gifu,507-0048,Japan
+Hashima-gun,Gifu,501-6013,Japan
+Nishisonogi-gun,Nagasaki,851-2102,Japan
+Suzukashi,Mie,513-0819,Japan
+Tsu-shi,Mie,514-0817,Japan
+Nagoya-shi,Aichi,462-0845,Japan
+Imabari-shi,Ehime,799-1504,Japan
+Kanonji-shi,Kagawa,768-0011,Japan
+Uwajima-shi,Ehime,798-0020,Japan
+Matsuyama-shi,Ehime,791-8044,Japan
+Kofu-shi,Yamanashi,400-0054 ,Japan
+Iida-shi,Nagano,395-0153,Japan
+Ina-shi,Nagano,396-0023,Japan
+Suwa-shi,Nagano,392-0013,Japan
+Saku-shi,Nagano,385-0051,Japan
+Ueda-shi,Nagano,386-0003,Japan
+Matsumoto,Nagano,399-0033,Japan
+Nagano-shi,Nagano,381-0025,Japan
+Kitami-shi,Hokkaido,099-0878,Japan
+Kushiro-shi,Hokkaido,084-0912,Japan
+Kagoshima-shi,Kagoshima,890-0033,Japan
+Kanazawa-shi,Ishikawa,920-3134,Japan
+Kumamoto-shi,Kumamoto,862-0967,Japan
+Mimata,Miyazaki,889-1914,Japan
+Miyazaki-shi,Miyazaki,880-0211,Japan
+Wakayama-shi,Wakayama,640-8341,Japan
+Nagaoka-shi,Niigata,940-2112,Japan
+Iwafume-gun,Niigata,959-3241,Japan
+Niigata-shi,Niigata,950-1126,Japan
+Sanjyo-shi,Niigata,955-0046,Japan
+Jyoetsu-shi,Niigata,943-0821,Japan
+Tokamachi-shi,Niigata,948-0073,Japan
+Kochi-shi,Kochi,783-0052,Japan
+Izumoshi,Shimane,693-0053,Japan
+Hamada-shi,Shimane,697-0034,Japan
+Yonago-shi,Tottori,683-0853,Japan
+Shunan,Yamaguchi,745-0063,Japan
+Yashio-shi,Saitama,340-0834,Japan
+Higashi Matsuyama,Saitama,355-0072,Japan
+Hachioji-shi,Tokyo,192-0063,Japan
+Kodaira-shi,Tokyo,187-0013,Japan
+Isehara-shi,Kanagawa,259-1121,Japan
+Minato-ku,Tokyo,108-0075,Japan
+Yokohama-shi,Kanagawa,221-0024,Japan
+Futtsu-shi,Chiba,293-0043,Japan
+Odawara-shi,Kanagawa,256-0812,Japan
+Yokosuka-shi,Kanagawa,238-0023,Japan
+Tateyama-shi,Chiba,294-0045,Japan
+Ryutsu Center Minami,Iwate,020-0891,Japan
+Kuji-shi,Iwate,028-0071,Japan
+Oshu-Shi,Iwate,023-0841,Japan
+Hanamaki-shi,Iwate,025-0024,Japan
+Hokuto,Hokkaido,041-1215,Japan
+Fukuyama-shi,Hiroshima,721-0964,Japan
+Hiroshima-shi,Hiroshima,734-0013,Japan
+Hachinohe-shi,Aomori,039-1164,Japan
+Yonezawa-shi,Yamagata,992-0021,Japan
+Shinjo-shi,Yamagata,996-0041,Japan
+Sakata-shi,Yamagata,998-0851,Japan
+Yamagata-shi,Yamagata,990-0024,Japan
+Tosu-shi,Saga,841-0042,Japan
+Kita Kyushu-shi,Fukuoka,802-0072,Japan
+Fukuoka-shi,Fukuoka,813-0023,Japan
+Fukuroi-shi,Shizuoka,437-0056,Japan
+Shizuoka-shi,Shizuoka,424-0064,Japan
+Nishi Shirakawa-gun,Fukushima ,969-0206,Japan
+Iwaki-shi,Fukushima ,973-8409,Japan
+Minami soma,Fukushima ,975-0076,Japan
+Sukagawa-shi,Fukushima ,962-0403 ,Japan
+Onuma-gun,Fukushima ,969-6207,Japan
+Minamiaizu-gun,Fukushima ,967-0004,Japan
+Tamura-gun,Fukushima ,963-7732,Japan
+Fukushima-shi,Fukushima ,960-8164,Japan
+Sabae-shi,Fukui,916-0016,Japan
+Tomakomai-shi,Hokkaido,053-0053?,Japan
+Muroran-shi,Hokkaido,050-0075,Japan
+Abuta-gun,Hokkaido,044-0051 ,Japan
+Yokote-shi,Akita,013-0008,Japan
+Senboku-gun,Akita,019-1404,Japan
+Akita-shi,Akita,011-0901,Japan
+Mutsu-shi,Aomori,035-0011,Japan
+Goshogawara-shi,Aomori,037-0202,Japan
+Kamikita-gun,Aomori,039-2666,Japan
+Hirosaki-shi,Aomori,036-8083,Japan
+Aomori-shi,Aomori,030-0946,Japan
+Wakkanai,Hokkaido,097-0011,Japan
+Takikawa-shi,Hokkaido,073-0004,Japan
+Kamikawa-gun,Hokkaido,071-1247 ,Japan
+Busan,,617-050,Korea
+Yongin-si,,446-904,Korea
+Seoul,,157-847,Korea
+Hawally,,,Kuwait
+Al-Ardiya,Al Farwaniyah Governorate,,Kuwait
+Macau,Macau,100,Macau
+Seremban,Negeri Sembilan,70300,Malaysia
+Klia,Pahang,64000,Malaysia
+ Il Moll Tal Hatab,Marsa,MRS1440,Malta
+Nuevo Laredo,Tamaulipas,88190,Mexico
+Zamora,Michoacan,59690,Mexico
+Manzanillo,Colima,28210,Mexico
+Zacatecas,Zacatecas,98600,Mexico
+Villahermosa,Tabasco,86010,Mexico
+Veracruz,Veracruz,91697,Mexico
+Torreon,Coahuila,27010,Mexico
+Tepic,Tepic,,Mexico
+Tijuana,BC Norte,22500,Mexico
+Tuxtla Gutierrez,Chiapas,29050,Mexico
+Tapachula,Chiapas,30780,Mexico
+Tampico,Tmaulipas,89339,Mexico
+San Luis Potosi,SLP,78395,Mexico
+Queretaro,Queretaro,76154,Mexico
+Pachuca,Hildago,42080,Mexico
+Puebla,Puebla,72100,Mexico
+Oaxaca,Oaxaca,70430,Mexico
+Nogales,Sonora,84000,Mexico
+Nuevo Laredo,Tamaulipas,88260,Mexico
+Mazatlan,Sinaloa,82190,Mexico
+Mexicali,Baja California Norte,21190,Mexico
+Monterrey,Nuevo Leon,64350,Mexico
+Coatzacoalcos,Veracruz,96536,Mexico
+Morelia,Morelia,58000,Mexico
+Merida,Yucatan,97390,Mexico
+Ciudad de Mexico,D.F.,2120,Mexico
+Matamoros,Tamaulipas,87394,Mexico
+Hermosillo,Sonora,83220,Mexico
+Tlaquepaque,Jalisco,45610,Mexico
+Durango,Durango,34220,Mexico
+Cuernavaca,Morelos,62579,Mexico
+Chihuahua,Chihuahua,31136,Mexico
+Cancun,Quintana Roo,77500,Mexico
+Culiacan,Sinaloa,60450,Mexico
+Chetumal,Quintana Roo,77000,Mexico
+Campeche,Campeche,24070,Mexico
+Cd. Del Carmen,Campeche,24150,Mexico
+Cd. Juarez,Chihuahua,32670,Mexico
+Cd. Obregon,Sonora,85000,Mexico
+Leon,Guanajuato,37290,Mexico
+Aguascalientes,Aguascalientes,20290,Mexico
+Acapulco,GRO,76805,Mexico
+Casablanca,,20100,Morocco
+Rozenburg,NH,3181,Netherlands
+Sockburn,Christchurch,8023,New Zealand
+Ngauranga,Wellington,6035,New Zealand
+Manukau,Auckland,2022,New Zealand
+Managua,Managua,,Nicaragua
+Oslo,,580,Norway
+Muscat,,,Oman
+Lima,Lima,1,Peru
+Paranaque,Paranaque,1700,Philippines
+Mandaue City,Cebu,6014,Philippines
+Wroclaw,Poland,52-404,Poland
+Warsaw,Warsaw,,Poland
+Moreira da Maia,,4470-600,Portugal
+Lisboa,,1100-287,Portugal
+San Juan,San Juan,923,Puerto Rico
+Doha,Doha,,Qatar
+Saint-Petersburg,,194,Russia
+Podolsk,Moscow,142101,Russia
+Riyadh,Riyadh,11195,Saudi Arabia
+Ar Riyad,,13311,Saudi Arabia
+Jeddah,,21433,Saudi Arabia
+Jiddah,,23531,Saudi Arabia
+Singapore,,498827,Singapore
+Ljubljana,,1511,Slovenia
+Kempton Park,Gauteng,,South Africa
+Cape Town,Western Cape,7525,South Africa
+La Coruna,,15190,Spain
+Coslada,Madrid,28821,Spain
+Las Palmas de Gran Canaria,Gran Canaria,35008,Spain
+Bilbao,Vizcaya,48015,Spain
+Hospitalet de Llobregat,,8960,Spain
+Colombo,Sri Lanka,1300,Sri Lanka
+St Thomas,,,St Thomas
+Skarholmen,,127 39,Sweden
+Sundsvall,Vasternorrlands lan,85650,Sweden
+Hisings Backa,,422 46,Sweden
+Embraport,Embrach,8423,Switzerland
+Geneva,,1202,Switzerland
+Pratteln,,4133,Switzerland
+Dayuan,Taoyuan,337,Taiwan
+Taiwan,Taoyuan,337,Taiwan
+Prawet ,Bangkok,10250,Thailand
+Istanbul,Istanbul,34782,Turkey
+Antalya,,7130,Turkey
+Dubai,Dubai,,UAE
+Dubai,Dubai,,UAE
+Sunbury,Middlesex,TW167DX,United Kingdom
+Edinburgh,Edinburgh,EH51RS,United Kingdom
+Leeds,Leeds,LS270EL,United Kingdom
+Bristol,Bristol,BS3 4DJ,United Kingdom
+Lemington,Newcastle Upon Tyne,NE158SG,United Kingdom
+Birmingham,Birmingham,B7 5QT,United Kingdom
+Crumlin,Belfast,BT294JP,United Kingdom
+St Saviour,Jersey,JE2 7JQ,United Kingdom
+St Peter Port,Guernsey,GY1 2BH,United Kingdom
+Sunbury,Middlesex,TW167DX,United Kingdom
+Basildon,Essex,SS14 3DX,United Kingdom
+Thetford,Norfolk,IP24 3RL,United Kingdom
+Southampton,Southampton,SO17 3SD,United Kingdom
+Washington,Tyne and Wear,NE38 0AD,United Kingdom
+Stretford,Manchester,M17 1AY,United Kingdom
+Manchester,Wythenshawe,M23 9PH,United Kingdom
+Milton Keynes,Milton Keynes,MK14 6GD,United Kingdom
+Hatfield,,AL10 8BJ,United Kingdom
+London,London,EC2A 3NN,United Kingdom
+Colnbrook,Colnbrook,SL3 ONJ,United Kingdom
+Feltham,Greater London,TW148RS,United Kingdom
+Crawley,West Sussex,RH10 9FZ,United Kingdom
+Maidstone,Kent,ME15 9YT,United Kingdom
+Doncaster,South Yorkshire,DN6 7BH,United Kingdom
+Leeds,West Yorkshire,LS9 0SJ,United Kingdom
+Glasgow,Lanarkshire,ML5 4NS,United Kingdom
+Nottingham,Nottingham,NG6 0DW,United Kingdom
+Livingston,West Lothian,EH54 5QS,United Kingdom
+London,London,EC4M 7RT,United Kingdom
+Cardiff,Cardiff,CF11 8TT,United Kingdom
+Coventry,West Midlands,CV6 5RY,United Kingdom
+Bristol,Bristol,BS5 7DR,United Kingdom
+Shirley,West Midlands,B90 4NZ,United Kingdom
+Antrim,Antrim,BT41 4LY,United Kingdom

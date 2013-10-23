@@ -1,0 +1,36 @@
+dealerId,dealerName,productid,address,telephone,website,latitude,longitude
+1,OBD Partner,1,"Aston Martinlaan 72, 3261NB Oud-Beijerland, Netherlands",0(031) 186 614 670,www.obd-partner.nl,51.813484,4.42113
+2,Gabstore.nl,1,"Rijksstraatweg 80, 4194SL Meteren, Netherlands",0(031) 345 569 817,www.gabstore.nl,51.8572663,5.2806711
+3,Autoparts Stekelorum,1,"Oekensestraat 3, 8870 Izegem, Belgium",0(032) 51 302 002,www.autopartsstekelorum.be,50.9244162,3.1887338
+4,Spyshop Venlo,1,"Steylerstra?e 27, 41334 Nettetal-Kaldenkirchen, Germany",0(049) 215 7138 7973,www.spyshop-venlo.com,51.32111,6.19316
+5,Security Alarm Cente,1,"Haltstraat 82, 3900 Overpelt, Belgium",0(032) 11 559 970,www.security-alarm-center.be,51.2243292,5.3877235
+6,Euregiohunt,1,"Wijnweg 1, 6273ND INGBER, Netherlands",0(031) 434 501 452,www.euregiohunt.com,50.8198813,5.8556965
+7,iGPS Netherlands,1,"Smalzijde 17b, 4243JP Nieuwland, Netherlands",0(031) 345 633 306,www.kopict.nl,51.8943315,5.0147101
+8,Mobile Only BVBA,1,"Steenweg 4 bus 1, 3621 Lanaken, Belgium",0(032) 477 689 060,www.mobile-only.be,50.9133741,5.682462
+9,Be Mobile,1,"Markt 5, 9880 Aalter, Belgium",0(032) 92 775 050,www.bemobileaalter.be,51.0842801,3.4482029
+10,Bruyr Electro sprl,1,"Rue Trieu Melun 22A, 5060 Sambreville, Belgium",0(032) 71 776 681,www.electrobruyr.be,50.4674149,4.6155455
+11,Elagro BVBA,1,"Steynstraat 185, 2660 Hoboken, Belgium",0(032) 98 276 382,www.elagro.be,51.1819636,4.3612563
+12,Kuppens Electro NV,1,"Lommelsesteenweg 135, 3970 Leopoldsburg, Belgium",0(032) 11 341 569,www.kuppens.net,51.1299652,5.2561542
+13,VDS Electronics NV,1,"Bree?rsteenweg 321, 3640 Kinrooi, Belgium",0(032) 89 702 248,NULL,0,0
+14,Rappe Maison sprl,1,"Chaussée de Wavre 98, 4280 Hannut, Belgium",0(032) 19 511 011,NULL,50.6697321,5.0469825
+15,Spy3K,1,"Gistelse Steenweg 261, 8200 Brugge, Belgium","0(032) 50 950 912, 0",www.spy3k.be,51.1998501,3.1937244
+16,Starcom1 Bike Commun,2,"Kruisstraat 8, 3980 Tessenderlo , Belgium",0(032) 473 38 10 91,www.starcom1.be,0,0
+17,ERS,2,"Walderdonk 77-79, 9185 Wachtebeke, Belgium",0(0032)9 342 95 07,www.ers.be,51.1747925,3.8459456
+18,Meeusen Motoren,2,"Bospad 1, 2450 Meerhout, Belgium",0(032) 14 82 04 46,www.meeusenmotoren.be,51.1159319,5.0375575
+19,Peter motor Works,2,"Bosdel 64, 3600 Genk, Belgium",0(089) 20 82 50,www.petermotorworks.be,50.9509405,5.4777435
+20,Claassen,2,"Winkelom 85, 2440 Geel, Belgium",0(014) 59 12 70,www.hdclaassen.be,51.1459745,5.0005962
+21,LC MOTORS,2,"Lammerdries - Winkelstraat 23, 2250 Olen, Belgium",0(014) 58 88 41,www.lc-motors.be,51.1440245,4.8599119
+22,OBEN BUILDING MACHIN,3,"Spelverstraat 36, 3740 Bilzen, Belgium",089/41.35.92,www.obennv.be,0,0
+23,PLASTICENTRE,3,"Ch. De Tournai 189a, 7801 Ath, Belgium",NULL,NULL,50.630531,3.7559582
+24,DE STALEN GREEP nv,3,"Bedevaarstraat 53, 8700 Tielt, Belgium",051/40.35.60,www.groupvancanneyt.be,50.9881134,3.3330681
+25,PIERARD IJZERWAREN,3,"I.Z. Schuurhovenveld 1008, 3800 Sint-Truiden, Belgium",011/68.21.62,www.pierard.be,50.8019192,5.2202655
+26,DE SMET R. nv,3,"Aug. Demaeghtlaan 78/80, 1500 Halle, Belgium",02/356.38.47,www.desmetr.be,0,0
+27,MILLE (1000) OUTILS ,3,"Rue de la Poteresse 190B, 5400 Bouge, Belgium",081/21.37.72,NULL,0,0
+28,CLAERBOUT METAALWARE,3,"Bruggesteenweg 112, 8830 Hooglede, Belgium",051/72.57.26,www.claerbout.be,0,0
+29,VANCANNEYT METAALWAR,3,"Spoelenwielenlaan 8, 8860 Lendelede, Belgium",051/31.13.96,www.vancanneyt.be,0,0
+30,CENTRAUTO + BRICOBEL,3,"Rue de Couillet 209A, 6200 Chatelet, Belgium",071/38.28.90,www.centrauto-chatelet.be,0,0
+31,FERNAND GEORGES sa,3,"Av. des Etats-Unis 30, 6041 Gosselies, Belgium",071/25.00.61,www.georges.be,0,0
+32,FERNAND GEORGES sa,3,"Rue de l'Industrie 5, 1301 Wavre, Belgium",010/42.14.60,www.georges.be,0,0
+33,FERNAND GEORGES sa,3,"Av. de l'Energie 28, 4432 Alleur, Belgium",04/247.34.47,www.georges.be,0,0
+34,RAMBEAUX-DOR sa,3,"Av. Reine Elisabeth 13, 5300 Andenne, Belgium",085/84.12.00,NULL,50.4910511,5.0957816
+35,DE BLAUWE HOND nv,3,"Harold Roscherstraat 1, 2660 Hoboken, Belgium",03/260.90.70,www.deblauwehond.be,51.176037,4.34803299
